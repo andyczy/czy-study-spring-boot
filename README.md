@@ -22,9 +22,13 @@
 
 
 ## 参考文献
-https://github.com/spring-projects/spring-boot  
-https://github.com/mybatis/spring-boot-starter      
-    
+spring官网：https://github.com/spring-projects/spring-boot  
+mybatis官网：https://github.com/mybatis/spring-boot-starter      
+翟永超文章: http://git.oschina.net/zhou666/spring-cloud-7simple
+
+
+
+
 
 ## 更多问题
 1、Mixing thymeleaf and jsp files in Spring Boot？
