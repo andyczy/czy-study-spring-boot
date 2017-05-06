@@ -11,7 +11,7 @@
     2、freemarker模板的使用   
     3、thymeleaf模板的使用    
     4、jsp模板的使用  （坑：必须注意用插件运行 mvn spring-boot:run）
-
+    5、random 随机数的使用
 
 
 
