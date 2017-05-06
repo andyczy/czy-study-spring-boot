@@ -1,0 +1,13 @@
+server:
+  # 端口 默认8080
+  port: 8080
+  # path
+  context-path: /czy
+
+# http://docs.spring.io/spring-boot/docs/current/reference/html/common-application-properties.html
+
+# 属性注入  @ConfigurationProperties(prefix = "home")  前缀
+username_new: this is new usernam !
+
+
+

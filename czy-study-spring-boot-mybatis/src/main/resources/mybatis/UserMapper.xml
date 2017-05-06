@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE mapper PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN" "http://mybatis.org/dtd/mybatis-3-mapper.dtd" >
+
+<mapper namespace="org.czy.spring.boot.mybatis.xml.mapper.UserMapper">
+
+
+
+    <resultMap id="ResultMap" type="org.czy.spring.boot.pojo.User">
+        <result column="id" property="id"/>
+        <result column="username" property="username"/>
+        <result column="birthday" property="birthday"/>
+        <result column="sex" property="sex"/>
+        <result column="address" property="address"/>
+    </resultMap>
+
+
+    <parameterMap id="User" type="org.czy.spring.boot.pojo.User"/>
+
+    <sql id="Base_Column">
+        id, username, birthday, birthday ,sex ,address
+    </sql>
+
+    <!--根据ID查询用户信息-->
+    <select id="findUserById" resultMap="ResultMap" parameterType="java.lang.Integer">
+        select
+          <include refid="Base_Column"/>
+        from user
+          where id = #{id}
+    </select>
+
+</mapper>
