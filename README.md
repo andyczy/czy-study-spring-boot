@@ -7,18 +7,23 @@
 
 ## 更新目录
 ##### czy-study-spring-boot-simple 模块
-    1、spring-boot的hello入门案例     
-    2、freemarker模板的使用   
-    3、thymeleaf模板的使用    
-    4、jsp模板的使用  （坑：必须注意用插件运行 mvn spring-boot:run）
+    1、spring-boot 的hello入门案例及其一些配置属性   
+    2、freemarker 模板引擎的使用   
+    3、thymeleaf 模板引擎的使用    
+    4、jsp 模板引擎的使用  （坑：必须注意用插件运行 mvn spring-boot:run）
+    5、random 随机数的使用
     
+   
 ##### czy-study-spring-boot-mybatis 模块
     1、注解的方式
     2、xml的方式
 
 
+
 ##### czy-study-spring-boot-jdbc-template 模块
     1、jdbc-template 简单案例
+
+
 
 
 ## 参考文献

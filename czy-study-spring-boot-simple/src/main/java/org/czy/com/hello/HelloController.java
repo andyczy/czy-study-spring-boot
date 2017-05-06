@@ -37,7 +37,7 @@ public class HelloController {
 	// json案例
 	// http://localhost:8080/czy/json
 	@RequestMapping(value = {"/json"}, method = RequestMethod.GET)
-	@ResponseBody
+	//@ResponseBody
 	public User getJson() {
 		User user = new User();
 		user.setId(2017);
