@@ -4,9 +4,14 @@ server:
   # path
   context-path: /czy
 
+#spring.mvc.view.prefix: /WEB-INF/jsp/
+spring.mvc.view.prefix: /jsp/
+spring.mvc.view.suffix: .jsp
+
 # http://docs.spring.io/spring-boot/docs/current/reference/html/common-application-properties.html
 
 # 属性注入  @ConfigurationProperties(prefix = "home")  前缀
 username_new: this is new usernam !
+
 
 
