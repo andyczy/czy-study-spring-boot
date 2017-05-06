@@ -11,6 +11,9 @@ import java.util.Map;
 public class ThymeleafController {
 
 
+
+	// 坑2：在一个项目里jsp和thymeleaf不能共存，必须注释掉spring-boot-starter-thymeleaf的依赖包才不报错
+
 	// thymeleaf案例
 	// http://localhost:8080/czy/thymeleaf
 	@RequestMapping("/thymeleaf")
