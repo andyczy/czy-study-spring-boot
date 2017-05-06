@@ -14,12 +14,10 @@
 
 
 
-## 参考文献：MyBatis integration with Spring Boot  
-     
-description:MyBatis Spring-Boot-Starter will help you use MyBatis with Spring Boot  
-网址：https://github.com/mybatis/spring-boot-starter   
-文档：http://www.mybatis.org/spring-boot-starter/mybatis-spring-boot-autoconfigure/index.html
-
+## 参考文献
+https://github.com/spring-projects/spring-boot  
+https://github.com/mybatis/spring-boot-starter      
+    
 
 
 
