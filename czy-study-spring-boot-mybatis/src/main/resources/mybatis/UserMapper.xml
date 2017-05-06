@@ -17,7 +17,7 @@
     <parameterMap id="User" type="org.czy.com.pojo.User"/>
 
     <sql id="Base_Column">
-        id, username, birthday, birthday ,sex ,address
+        id, username, birthday ,sex ,address
     </sql>
 
     <!--根据ID查询用户信息-->

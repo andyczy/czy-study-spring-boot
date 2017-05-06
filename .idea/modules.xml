@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/czy-study-spring-boot.iml" filepath="$PROJECT_DIR$/czy-study-spring-boot.iml" />
+      <module fileurl="file://$PROJECT_DIR$/czy-study-spring-boot-jdbc-template/czy-study-spring-boot-jdbc-template.iml" filepath="$PROJECT_DIR$/czy-study-spring-boot-jdbc-template/czy-study-spring-boot-jdbc-template.iml" />
       <module fileurl="file://$PROJECT_DIR$/czy-study-spring-boot-mybatis/czy-study-spring-boot-mybatis.iml" filepath="$PROJECT_DIR$/czy-study-spring-boot-mybatis/czy-study-spring-boot-mybatis.iml" />
       <module fileurl="file://$PROJECT_DIR$/czy-study-spring-boot-simple/czy-study-spring-boot-simple.iml" filepath="$PROJECT_DIR$/czy-study-spring-boot-simple/czy-study-spring-boot-simple.iml" />
     </modules>

@@ -7,6 +7,7 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="czy-study-spring-boot-hello" />
+        <module name="czy-study-spring-boot-jdbc-template" />
         <module name="czy-study-spring-boot-mybatis" />
         <module name="czy-study-spring-boot-simple" />
       </profile>
@@ -14,6 +15,7 @@
     <bytecodeTargetLevel>
       <module name="czy-study-spring-boot" target="1.5" />
       <module name="czy-study-spring-boot-hello" target="1.8" />
+      <module name="czy-study-spring-boot-jdbc-template" target="1.8" />
       <module name="czy-study-spring-boot-mybatis" target="1.8" />
       <module name="czy-study-spring-boot-simple" target="1.8" />
     </bytecodeTargetLevel>

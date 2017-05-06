@@ -2,6 +2,7 @@
 <project version="4">
   <component name="Encoding" native2AsciiForPropertiesFiles="true" defaultCharsetForPropertiesFiles="UTF-8">
     <file url="file://$PROJECT_DIR$" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/czy-study-spring-boot-jdbc-template" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/czy-study-spring-boot-mybatis" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/czy-study-spring-boot-simple" charset="UTF-8" />
     <file url="PROJECT" charset="UTF-8" />
