@@ -1,0 +1,7 @@
+
+server:
+  # 端口 默认8080
+  port: 8080
+  # path
+  context-path: /czy
+

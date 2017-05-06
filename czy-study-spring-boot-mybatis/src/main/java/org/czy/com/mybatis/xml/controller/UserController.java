@@ -1,12 +1,13 @@
 package org.czy.com.mybatis.xml.controller;
 
 
-import org.czy.com.mybatis.annotation.service.UserService;
+import org.czy.com.mybatis.xml.service.UserService;
 import org.czy.com.pojo.User;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.ResponseBody;
 import org.springframework.web.bind.annotation.RestController;
+
 
 /**
  * @auther 陈郑游

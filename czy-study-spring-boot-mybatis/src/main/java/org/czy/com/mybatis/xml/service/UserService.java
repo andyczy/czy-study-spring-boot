@@ -1,7 +1,7 @@
 package org.czy.com.mybatis.xml.service;
 
 
-import org.czy.com.mybatis.annotation.mapper.UserMapper;
+import org.czy.com.mybatis.xml.mapper.UserMapper;
 import org.czy.com.pojo.User;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
