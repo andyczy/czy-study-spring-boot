@@ -28,7 +28,7 @@ mybatis官网：https://github.com/mybatis/spring-boot-starter
 
 
 
-[更多问题]|(md/更多问题.md)
+[更多问题]|(md/更多问题.md)|更多问题
 
 
 
