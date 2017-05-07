@@ -6,24 +6,15 @@
 
 
 ## 更新目录
-##### czy-study-spring-boot-simple 模块
-    1、spring-boot 的hello入门案例及其一些配置属性   
-    2、freemarker 模板引擎的使用   
-    3、thymeleaf 模板引擎的使用    
-    4、jsp 模板引擎的使用  （坑：必须注意用插件运行 mvn spring-boot:run）
-    5、异常处理
-    6、random 随机数的使用
+[czy-study-spring-boot-simple 模板]|(czy-study-spring-boot-simple/README.md) 
    
     
    
-##### czy-study-spring-boot-mybatis 模块
-    1、注解的方式
-    2、xml的方式
+[czy-study-spring-boot-mybatis 模块]|(czy-study-spring-boot-mybatis/README.md)
 
 
+[czy-study-spring-boot-jdbc-template 模块]|(czy-study-spring-boot-jdbc-template/README.md)
 
-##### czy-study-spring-boot-jdbc-template 模块
-    1、jdbc-template 简单案例
 
 
 
@@ -37,10 +28,7 @@ mybatis官网：https://github.com/mybatis/spring-boot-starter
 
 
 
-## 更多问题
-1、Mixing thymeleaf and jsp files in Spring Boot？
-[[stackoverflow]](https://stackoverflow.com/questions/31985798/mixing-thymeleaf-and-jsp-files-in-spring-boot/43818962#43818962)         
-
+[更多问题]|(md/更多问题.md)
 
 
 
