@@ -5,5 +5,5 @@ spring boot 使用手册
 * 第二章 数据访问
     * [[2 数据访问.md]](GitBooK/2 数据访问.md)
     
-* SQLI
+* 关于作者
     * [sqli](SQLI/SQLI.md)
