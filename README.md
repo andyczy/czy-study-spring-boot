@@ -1,8 +1,8 @@
-# description：microservice-spring-boot-study
+# spring boot 使用手册
 ##### [[博客地址：http://blog.csdn.net/javawebrookie]](http://blog.csdn.net/javawebrookie "陈郑游")         
 ##### 作者：郑宇
-##### Take the dream life!
-#####  [[文档记录]](https://www.gitbook.com/book/chenzhengyou/springboot/welcome "spring boot 使用手册更新中")
+##### 座右铭：Take the dream life!
+#####  [[spring boot 使用手册 GitBoot更新中]](https://www.gitbook.com/book/chenzhengyou/springboot/welcome "spring boot 使用手册更新中")
 
 
 ## 更新目录
