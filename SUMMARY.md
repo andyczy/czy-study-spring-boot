@@ -6,4 +6,4 @@ spring boot 使用手册
     * [[2 数据访问.md]](GitBooK/2 数据访问.md)
     
 * 关于作者
-    * [sqli](SQLI/SQLI.md)
+    * [sqli](GitBooK/README.md)
