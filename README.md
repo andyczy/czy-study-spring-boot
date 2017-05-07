@@ -7,7 +7,7 @@
 
 ## 更新目录
 
-##### czy-study-spring-boot-simple 模块
+#### czy-study-spring-boot-simple 模块
     1、spring-boot的hello入门案例     
     2、freemarker模板的使用   
     3、thymeleaf模板的使用    
@@ -16,12 +16,12 @@
     6、random 随机数的使用
 
 
-##### czy-study-spring-boot-mybatis 模块
+#### czy-study-spring-boot-mybatis 模块
     1、注解的方式
     2、xml的方式
 
 
-##### czy-study-spring-boot-jdbc-template 模块
+#### czy-study-spring-boot-jdbc-template 模块
     1、jdbc-template 简单案例
 
 
