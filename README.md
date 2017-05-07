@@ -1,7 +1,7 @@
 # spring boot 使用手册
 ##### [[博客地址：http://blog.csdn.net/javawebrookie]](http://blog.csdn.net/javawebrookie "陈郑游")         
-##### 作者：郑宇
-##### 座右铭：Take the dream life!
+##### Author: 陈郑游
+##### motto：Take the dream life!
 #####  [[spring boot 使用手册 GitBoot更新中]](https://www.gitbook.com/book/chenzhengyou/springboot/welcome "spring boot 使用手册更新中")
 
 
@@ -30,7 +30,7 @@
 [[spring官网]](https://github.com/spring-projects/spring-boot  )
 [[mybatis官网]](https://github.com/mybatis/spring-boot-starter)
 [[翟永超文章 ]](http://git.oschina.net/zhou666/spring-cloud-7simple)
-
+[[周立文章 ]](http://git.oschina.net/it-much)
 
 
 
