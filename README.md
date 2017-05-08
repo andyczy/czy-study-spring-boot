@@ -31,6 +31,7 @@
 ## 参考文献
 [[spring官网]](https://github.com/spring-projects/spring-boot  )
 [[mybatis官网]](https://github.com/mybatis/spring-boot-starter)
+[[logback官网]](https://logback.qos.ch/ "logback官网")
 [[翟永超文章 ]](http://git.oschina.net/zhou666/spring-cloud-7simple)
 [[周立文章 ]](http://git.oschina.net/it-much)
 
