@@ -6,6 +6,7 @@
     4、jsp模板的使用  （坑：必须注意用插件运行 mvn spring-boot:run）
     5、异常处理
     6、random 随机数的使用
+    7、logback 日志的使用
     
 
 
