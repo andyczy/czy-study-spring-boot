@@ -22,21 +22,13 @@ import java.io.IOException;
 @RestController
 public class SampleLogbackApplication {
 
+    private final static Logger logger = LoggerFactory.getLogger(SampleLogbackApplication.class);
 
-    protected final Logger logger = LoggerFactory.getLogger(this.getClass());
-
-
-    /**
-     * url : http://localhost:8080/czy/logback
-     * Success
-     * @param response
-     * @throws IOException
-     */
-    @RequestMapping(value = "/logback")
-    @ResponseBody
-    public void getLogback(HttpServletResponse response) throws IOException {
-        logger.debug("DEBUG TEST 这个地方输出DEBUG级别的日志");
-        logger.info("INFO test 这个地方输出INFO级别的日志");
-        logger.error("ERROR test 这个地方输出ERROR级别的日志");
+    // http://localhost:8080/czy/logback
+    @RequestMapping("/logback")
+    public String getLogback() {
+        logger.info("logback 访问hello");
+        logger.error("logback 访问hello");
+        return "Hello logback!";
     }
 }
