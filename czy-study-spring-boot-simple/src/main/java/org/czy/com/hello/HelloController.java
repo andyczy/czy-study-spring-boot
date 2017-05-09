@@ -22,7 +22,7 @@ public class HelloController {
 	// 入门案例
 	// http://localhost:8080/czy/hello
 	// http://localhost:8080/czy/hello_test
-	@ExceptionHandler(value = Exception.class)
+	// @ExceptionHandler(value = Exception.class)
 	@RequestMapping(value = {"/hello","/hello_test"}, method = RequestMethod.GET)
 	public String getHello() {
 		return "Hello World ! start study spring cloud ! <br> " + message;
