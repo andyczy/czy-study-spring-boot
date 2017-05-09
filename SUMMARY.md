@@ -4,7 +4,7 @@ spring boot 实战指南
     * [1.2 再遇HelloWord](GitBooK/一/1.2再遇HelloWord.md)
     * [1.3 入门案例详解](GitBooK/一/1.3入门案例详解.md)
     * [1.4 打包用于生产的应用程序](GitBooK/一/1.4打包用于生产的应用程序.md)
- 
+    * [1.5 构建系统](GitBooK/一/1.5构建系统.md)
 * 第二章 数据访问
     * [2.1 整合mybatis](GitBooK/2 数据访问.md)
     * 
