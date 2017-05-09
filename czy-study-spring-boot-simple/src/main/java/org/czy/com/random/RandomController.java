@@ -14,7 +14,7 @@ public class RandomController {
 
 
 
-	// 属性注入
+	// 随机数注入
 	@Value("${messageValue.value}")
 	private String stringvalue;
 	@Value("${messageValue.number}")
