@@ -12,7 +12,7 @@ import java.io.IOException;
 /**
  * @auther 陈郑游
  * @create 2017/5/8 0008
- * @功能
+ * @功能  logback的使用
  * @问题
  * @说明
  * @URL地址
