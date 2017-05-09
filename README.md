@@ -2,7 +2,7 @@
 ##### [[博客地址：http://blog.csdn.net/javawebrookie]](http://blog.csdn.net/javawebrookie "陈郑游")         
 ##### Author: 陈郑游
 ##### motto：Take the dream life!
-#####  [[spring boot 使用手册 GitBooK更新中]](https://www.gitbook.com/book/chenzhengyou/springboot/welcome "spring boot 使用手册更新中")
+#####  [[spring boot 使用手册 GitBooK更新中]](https://chenzhengyou.gitbooks.io/spring-boot/content/ "spring boot 使用手册更新中")
 
 
 ## 更新目录
