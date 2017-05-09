@@ -16,14 +16,7 @@ import org.springframework.boot.web.support.SpringBootServletInitializer;
  */
 //扫描：该包下相应的class,主要是MyBatis的持久化类。
 @SpringBootApplication
-public class Application extends SpringBootServletInitializer {
-
-    @Override
-    protected SpringApplicationBuilder configure(SpringApplicationBuilder application) {
-        return application.sources(Application.class);
-    }
-
-
+public class Application {
 
     // mvn spring-boot:run或在IDE中运行main()方法，
     public static void main(String[] args) {

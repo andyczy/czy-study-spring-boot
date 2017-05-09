@@ -19,7 +19,6 @@ public class HelloController {
 	private String message;
 
 
-
 	// 入门案例
 	// http://localhost:8080/czy/hello
 	// http://localhost:8080/czy/hello_test
