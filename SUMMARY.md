@@ -3,7 +3,7 @@ spring boot 实战指南
     * [1.1 spring boot简介](czy-study-spring-boot/一/1.1spring boot简介.md)
     * [1.2 再遇HelloWord](czy-study-spring-boot/一/1.2再遇HelloWord.md)
     * [1.3 入门案例详解](czy-study-spring-boot/一/1.3入门案例详解.md)
-    * [1.4 自定义属性与加载](czy-study-spring-boot/一/1.4自定义属性与加载.md)
+    * [1.4 自定义属性与随机数](czy-study-spring-boot/一/1.4自定义属性与随机数.md)
     * [1.5 打包用于生产的应用程序](czy-study-spring-boot/一/1.5打包用于生产的应用程序.md)
     * [1.6 使用maven构建与IDEA快速构建系统](czy-study-spring-boot/一/1.6使用maven构建与IDEA快速构建系统.md)
 * 第二章 数据访问
