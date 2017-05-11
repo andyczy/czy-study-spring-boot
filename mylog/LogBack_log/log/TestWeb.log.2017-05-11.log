@@ -1,0 +1,343 @@
+2017-05-11 14:34:51.106 [main] INFO  org.czy.com.importResource.Application - Starting Application on QKILUDV92DK1MMA with PID 6724 (E:\ImportantData\IdeaJava\czy-framework-family\czy-study-spring-boot\czy-study-spring-boot-simple\target\classes started by Administrator in E:\ImportantData\IdeaJava\czy-framework-family\czy-study-spring-boot)
+2017-05-11 14:34:51.108 [main] INFO  org.czy.com.importResource.Application - The following profiles are active: dev
+2017-05-11 14:34:52.297 [main] INFO  o.s.b.c.e.AnnotationConfigEmbeddedWebApplicationContext - Refreshing org.springframework.boot.context.embedded.AnnotationConfigEmbeddedWebApplicationContext@7f552bd3: startup date [Thu May 11 14:34:52 CST 2017]; root of context hierarchy
+2017-05-11 14:34:53.089 [background-preinit] INFO  org.hibernate.validator.internal.util.Version - HV000001: Hibernate Validator 5.3.5.Final
+2017-05-11 14:34:56.449 [main] INFO  o.s.b.c.e.tomcat.TomcatEmbeddedServletContainer - Tomcat initialized with port(s): 8080 (http)
+2017-05-11 14:34:56.501 [main] INFO  org.apache.catalina.core.StandardService - Starting service Tomcat
+2017-05-11 14:34:56.514 [main] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet Engine: Apache Tomcat/8.5.14
+2017-05-11 14:34:56.752 [localhost-startStop-1] INFO  o.a.c.c.ContainerBase.[Tomcat].[localhost].[/czy] - Initializing Spring embedded WebApplicationContext
+2017-05-11 14:34:56.753 [localhost-startStop-1] INFO  org.springframework.web.context.ContextLoader - Root WebApplicationContext: initialization completed in 4456 ms
+2017-05-11 14:34:56.986 [localhost-startStop-1] INFO  o.s.boot.web.servlet.ServletRegistrationBean - Mapping servlet: 'dispatcherServlet' to [/]
+2017-05-11 14:34:56.992 [localhost-startStop-1] INFO  o.s.boot.web.servlet.FilterRegistrationBean - Mapping filter: 'characterEncodingFilter' to: [/*]
+2017-05-11 14:34:56.993 [localhost-startStop-1] INFO  o.s.boot.web.servlet.FilterRegistrationBean - Mapping filter: 'hiddenHttpMethodFilter' to: [/*]
+2017-05-11 14:34:56.993 [localhost-startStop-1] INFO  o.s.boot.web.servlet.FilterRegistrationBean - Mapping filter: 'httpPutFormContentFilter' to: [/*]
+2017-05-11 14:34:56.993 [localhost-startStop-1] INFO  o.s.boot.web.servlet.FilterRegistrationBean - Mapping filter: 'requestContextFilter' to: [/*]
+2017-05-11 14:34:57.549 [main] INFO  o.s.w.s.m.m.a.RequestMappingHandlerAdapter - Looking for @ControllerAdvice: org.springframework.boot.context.embedded.AnnotationConfigEmbeddedWebApplicationContext@7f552bd3: startup date [Thu May 11 14:34:52 CST 2017]; root of context hierarchy
+2017-05-11 14:34:57.681 [main] INFO  o.s.w.s.m.m.a.RequestMappingHandlerMapping - Mapped "{[/error]}" onto public org.springframework.http.ResponseEntity<java.util.Map<java.lang.String, java.lang.Object>> org.springframework.boot.autoconfigure.web.BasicErrorController.error(javax.servlet.http.HttpServletRequest)
+2017-05-11 14:34:57.682 [main] INFO  o.s.w.s.m.m.a.RequestMappingHandlerMapping - Mapped "{[/error],produces=[text/html]}" onto public org.springframework.web.servlet.ModelAndView org.springframework.boot.autoconfigure.web.BasicErrorController.errorHtml(javax.servlet.http.HttpServletRequest,javax.servlet.http.HttpServletResponse)
+2017-05-11 14:34:57.719 [main] INFO  o.s.web.servlet.handler.SimpleUrlHandlerMapping - Mapped URL path [/webjars/**] onto handler of type [class org.springframework.web.servlet.resource.ResourceHttpRequestHandler]
+2017-05-11 14:34:57.719 [main] INFO  o.s.web.servlet.handler.SimpleUrlHandlerMapping - Mapped URL path [/**] onto handler of type [class org.springframework.web.servlet.resource.ResourceHttpRequestHandler]
+2017-05-11 14:34:58.564 [main] INFO  o.s.w.servlet.view.freemarker.FreeMarkerConfigurer - ClassTemplateLoader for Spring macros added to FreeMarker configuration
+2017-05-11 14:34:58.682 [main] INFO  o.s.jmx.export.annotation.AnnotationMBeanExporter - Registering beans for JMX exposure on startup
+2017-05-11 14:34:58.731 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8080"]
+2017-05-11 14:34:58.749 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8080"]
+2017-05-11 14:34:58.762 [main] INFO  org.apache.tomcat.util.net.NioSelectorPool - Using a shared selector for servlet write/read
+2017-05-11 14:34:58.826 [main] INFO  o.s.b.c.e.tomcat.TomcatEmbeddedServletContainer - Tomcat started on port(s): 8080 (http)
+2017-05-11 14:34:58.845 [main] INFO  org.czy.com.importResource.Application - Started Application in 9.569 seconds (JVM running for 11.295)
+2017-05-11 14:40:26.292 [main] INFO  org.czy.com.Application - Starting Application on QKILUDV92DK1MMA with PID 6928 (E:\ImportantData\IdeaJava\czy-framework-family\czy-study-spring-boot\czy-study-spring-boot-simple\target\classes started by Administrator in E:\ImportantData\IdeaJava\czy-framework-family\czy-study-spring-boot)
+2017-05-11 14:40:26.295 [main] INFO  org.czy.com.Application - The following profiles are active: dev
+2017-05-11 14:40:26.589 [main] INFO  o.s.b.c.e.AnnotationConfigEmbeddedWebApplicationContext - Refreshing org.springframework.boot.context.embedded.AnnotationConfigEmbeddedWebApplicationContext@7f552bd3: startup date [Thu May 11 14:40:26 CST 2017]; root of context hierarchy
+2017-05-11 14:40:26.712 [background-preinit] INFO  org.hibernate.validator.internal.util.Version - HV000001: Hibernate Validator 5.3.5.Final
+2017-05-11 14:40:28.776 [main] INFO  o.s.b.c.e.tomcat.TomcatEmbeddedServletContainer - Tomcat initialized with port(s): 8080 (http)
+2017-05-11 14:40:28.788 [main] INFO  org.apache.catalina.core.StandardService - Starting service Tomcat
+2017-05-11 14:40:28.789 [main] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet Engine: Apache Tomcat/8.5.14
+2017-05-11 14:40:28.880 [localhost-startStop-1] INFO  o.a.c.c.ContainerBase.[Tomcat].[localhost].[/czy] - Initializing Spring embedded WebApplicationContext
+2017-05-11 14:40:28.881 [localhost-startStop-1] INFO  org.springframework.web.context.ContextLoader - Root WebApplicationContext: initialization completed in 2292 ms
+2017-05-11 14:40:29.027 [localhost-startStop-1] INFO  o.s.boot.web.servlet.ServletRegistrationBean - Mapping servlet: 'dispatcherServlet' to [/]
+2017-05-11 14:40:29.031 [localhost-startStop-1] INFO  o.s.boot.web.servlet.FilterRegistrationBean - Mapping filter: 'characterEncodingFilter' to: [/*]
+2017-05-11 14:40:29.032 [localhost-startStop-1] INFO  o.s.boot.web.servlet.FilterRegistrationBean - Mapping filter: 'hiddenHttpMethodFilter' to: [/*]
+2017-05-11 14:40:29.032 [localhost-startStop-1] INFO  o.s.boot.web.servlet.FilterRegistrationBean - Mapping filter: 'httpPutFormContentFilter' to: [/*]
+2017-05-11 14:40:29.032 [localhost-startStop-1] INFO  o.s.boot.web.servlet.FilterRegistrationBean - Mapping filter: 'requestContextFilter' to: [/*]
+2017-05-11 14:40:29.275 [main] INFO  o.s.w.s.m.m.a.RequestMappingHandlerAdapter - Looking for @ControllerAdvice: org.springframework.boot.context.embedded.AnnotationConfigEmbeddedWebApplicationContext@7f552bd3: startup date [Thu May 11 14:40:26 CST 2017]; root of context hierarchy
+2017-05-11 14:40:29.334 [main] INFO  o.s.w.s.m.m.a.RequestMappingHandlerMapping - Mapped "{[/freemarker],methods=[GET]}" onto public java.lang.String org.czy.com.freemarker.FreemarkerController.getFreemarker(org.springframework.ui.Model)
+2017-05-11 14:40:29.335 [main] INFO  o.s.w.s.m.m.a.RequestMappingHandlerMapping - Mapped "{[/hello || /hello_test],methods=[GET]}" onto public java.lang.String org.czy.com.hello.HelloController.getHello()
+2017-05-11 14:40:29.336 [main] INFO  o.s.w.s.m.m.a.RequestMappingHandlerMapping - Mapped "{[/getJson],methods=[GET]}" onto public org.czy.com.pojo.User org.czy.com.json.JsonController.getJson()
+2017-05-11 14:40:29.336 [main] INFO  o.s.w.s.m.m.a.RequestMappingHandlerMapping - Mapped "{[/],methods=[GET],produces=[text/plain;charset=UTF-8]}" onto public java.lang.String org.czy.com.jsp.JspController.index()
+2017-05-11 14:40:29.337 [main] INFO  o.s.w.s.m.m.a.RequestMappingHandlerMapping - Mapped "{[/jsp]}" onto public org.springframework.web.servlet.ModelAndView org.czy.com.jsp.JspController.welcome()
+2017-05-11 14:40:29.337 [main] INFO  o.s.w.s.m.m.a.RequestMappingHandlerMapping - Mapped "{[/logback]}" onto public java.lang.String org.czy.com.logback.SampleLogbackApplication.getLogback()
+2017-05-11 14:40:29.338 [main] INFO  o.s.w.s.m.m.a.RequestMappingHandlerMapping - Mapped "{[/random],methods=[GET]}" onto public java.lang.String org.czy.com.random.RandomController.getRandom()
+2017-05-11 14:40:29.338 [main] INFO  o.s.w.s.m.m.a.RequestMappingHandlerMapping - Mapped "{[/thymeleaf]}" onto public java.lang.String org.czy.com.thymeleaf.ThymeleafController.getThymeleaf(java.util.Map<java.lang.String, java.lang.Object>)
+2017-05-11 14:40:29.341 [main] INFO  o.s.w.s.m.m.a.RequestMappingHandlerMapping - Mapped "{[/error]}" onto public org.springframework.http.ResponseEntity<java.util.Map<java.lang.String, java.lang.Object>> org.springframework.boot.autoconfigure.web.BasicErrorController.error(javax.servlet.http.HttpServletRequest)
+2017-05-11 14:40:29.342 [main] INFO  o.s.w.s.m.m.a.RequestMappingHandlerMapping - Mapped "{[/error],produces=[text/html]}" onto public org.springframework.web.servlet.ModelAndView org.springframework.boot.autoconfigure.web.BasicErrorController.errorHtml(javax.servlet.http.HttpServletRequest,javax.servlet.http.HttpServletResponse)
+2017-05-11 14:40:29.365 [main] INFO  o.s.web.servlet.handler.SimpleUrlHandlerMapping - Mapped URL path [/webjars/**] onto handler of type [class org.springframework.web.servlet.resource.ResourceHttpRequestHandler]
+2017-05-11 14:40:29.366 [main] INFO  o.s.web.servlet.handler.SimpleUrlHandlerMapping - Mapped URL path [/**] onto handler of type [class org.springframework.web.servlet.resource.ResourceHttpRequestHandler]
+2017-05-11 14:40:29.387 [main] INFO  o.s.w.s.m.m.a.ExceptionHandlerExceptionResolver - Detected @ExceptionHandler methods in exceptionHandlerController
+2017-05-11 14:40:29.753 [main] INFO  o.s.w.servlet.view.freemarker.FreeMarkerConfigurer - ClassTemplateLoader for Spring macros added to FreeMarker configuration
+2017-05-11 14:40:29.842 [main] INFO  o.s.jmx.export.annotation.AnnotationMBeanExporter - Registering beans for JMX exposure on startup
+2017-05-11 14:40:29.857 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8080"]
+2017-05-11 14:40:29.865 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8080"]
+2017-05-11 14:40:29.877 [main] INFO  org.apache.tomcat.util.net.NioSelectorPool - Using a shared selector for servlet write/read
+2017-05-11 14:40:29.894 [main] INFO  o.s.b.c.e.tomcat.TomcatEmbeddedServletContainer - Tomcat started on port(s): 8080 (http)
+2017-05-11 14:40:29.898 [main] INFO  org.czy.com.Application - Started Application in 4.016 seconds (JVM running for 4.681)
+2017-05-11 14:41:08.604 [main] INFO  org.czy.com.importResource.testNo.Application - Starting Application on QKILUDV92DK1MMA with PID 6052 (E:\ImportantData\IdeaJava\czy-framework-family\czy-study-spring-boot\czy-study-spring-boot-simple\target\classes started by Administrator in E:\ImportantData\IdeaJava\czy-framework-family\czy-study-spring-boot)
+2017-05-11 14:41:08.609 [main] INFO  org.czy.com.importResource.testNo.Application - The following profiles are active: dev
+2017-05-11 14:41:08.869 [main] INFO  o.s.b.c.e.AnnotationConfigEmbeddedWebApplicationContext - Refreshing org.springframework.boot.context.embedded.AnnotationConfigEmbeddedWebApplicationContext@3c22fc4c: startup date [Thu May 11 14:41:08 CST 2017]; root of context hierarchy
+2017-05-11 14:41:09.042 [background-preinit] INFO  org.hibernate.validator.internal.util.Version - HV000001: Hibernate Validator 5.3.5.Final
+2017-05-11 14:41:11.167 [main] INFO  o.s.b.c.e.tomcat.TomcatEmbeddedServletContainer - Tomcat initialized with port(s): 8080 (http)
+2017-05-11 14:41:11.183 [main] INFO  org.apache.catalina.core.StandardService - Starting service Tomcat
+2017-05-11 14:41:11.184 [main] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet Engine: Apache Tomcat/8.5.14
+2017-05-11 14:41:11.271 [localhost-startStop-1] INFO  o.a.c.c.ContainerBase.[Tomcat].[localhost].[/czy] - Initializing Spring embedded WebApplicationContext
+2017-05-11 14:41:11.271 [localhost-startStop-1] INFO  org.springframework.web.context.ContextLoader - Root WebApplicationContext: initialization completed in 2402 ms
+2017-05-11 14:41:11.417 [localhost-startStop-1] INFO  o.s.boot.web.servlet.ServletRegistrationBean - Mapping servlet: 'dispatcherServlet' to [/]
+2017-05-11 14:41:11.422 [localhost-startStop-1] INFO  o.s.boot.web.servlet.FilterRegistrationBean - Mapping filter: 'characterEncodingFilter' to: [/*]
+2017-05-11 14:41:11.423 [localhost-startStop-1] INFO  o.s.boot.web.servlet.FilterRegistrationBean - Mapping filter: 'hiddenHttpMethodFilter' to: [/*]
+2017-05-11 14:41:11.423 [localhost-startStop-1] INFO  o.s.boot.web.servlet.FilterRegistrationBean - Mapping filter: 'httpPutFormContentFilter' to: [/*]
+2017-05-11 14:41:11.423 [localhost-startStop-1] INFO  o.s.boot.web.servlet.FilterRegistrationBean - Mapping filter: 'requestContextFilter' to: [/*]
+2017-05-11 14:41:11.759 [main] INFO  o.s.w.s.m.m.a.RequestMappingHandlerAdapter - Looking for @ControllerAdvice: org.springframework.boot.context.embedded.AnnotationConfigEmbeddedWebApplicationContext@3c22fc4c: startup date [Thu May 11 14:41:08 CST 2017]; root of context hierarchy
+2017-05-11 14:41:11.814 [main] INFO  o.s.w.s.m.m.a.RequestMappingHandlerMapping - Mapped "{[/freemarker],methods=[GET]}" onto public java.lang.String org.czy.com.freemarker.FreemarkerController.getFreemarker(org.springframework.ui.Model)
+2017-05-11 14:41:11.815 [main] INFO  o.s.w.s.m.m.a.RequestMappingHandlerMapping - Mapped "{[/hello || /hello_test],methods=[GET]}" onto public java.lang.String org.czy.com.hello.HelloController.getHello()
+2017-05-11 14:41:11.816 [main] INFO  o.s.w.s.m.m.a.RequestMappingHandlerMapping - Mapped "{[/getJson],methods=[GET]}" onto public org.czy.com.pojo.User org.czy.com.json.JsonController.getJson()
+2017-05-11 14:41:11.817 [main] INFO  o.s.w.s.m.m.a.RequestMappingHandlerMapping - Mapped "{[/],methods=[GET],produces=[text/plain;charset=UTF-8]}" onto public java.lang.String org.czy.com.jsp.JspController.index()
+2017-05-11 14:41:11.817 [main] INFO  o.s.w.s.m.m.a.RequestMappingHandlerMapping - Mapped "{[/jsp]}" onto public org.springframework.web.servlet.ModelAndView org.czy.com.jsp.JspController.welcome()
+2017-05-11 14:41:11.818 [main] INFO  o.s.w.s.m.m.a.RequestMappingHandlerMapping - Mapped "{[/logback]}" onto public java.lang.String org.czy.com.logback.SampleLogbackApplication.getLogback()
+2017-05-11 14:41:11.819 [main] INFO  o.s.w.s.m.m.a.RequestMappingHandlerMapping - Mapped "{[/random],methods=[GET]}" onto public java.lang.String org.czy.com.random.RandomController.getRandom()
+2017-05-11 14:41:11.819 [main] INFO  o.s.w.s.m.m.a.RequestMappingHandlerMapping - Mapped "{[/thymeleaf]}" onto public java.lang.String org.czy.com.thymeleaf.ThymeleafController.getThymeleaf(java.util.Map<java.lang.String, java.lang.Object>)
+2017-05-11 14:41:11.821 [main] INFO  o.s.w.s.m.m.a.RequestMappingHandlerMapping - Mapped "{[/error]}" onto public org.springframework.http.ResponseEntity<java.util.Map<java.lang.String, java.lang.Object>> org.springframework.boot.autoconfigure.web.BasicErrorController.error(javax.servlet.http.HttpServletRequest)
+2017-05-11 14:41:11.822 [main] INFO  o.s.w.s.m.m.a.RequestMappingHandlerMapping - Mapped "{[/error],produces=[text/html]}" onto public org.springframework.web.servlet.ModelAndView org.springframework.boot.autoconfigure.web.BasicErrorController.errorHtml(javax.servlet.http.HttpServletRequest,javax.servlet.http.HttpServletResponse)
+2017-05-11 14:41:11.846 [main] INFO  o.s.web.servlet.handler.SimpleUrlHandlerMapping - Mapped URL path [/webjars/**] onto handler of type [class org.springframework.web.servlet.resource.ResourceHttpRequestHandler]
+2017-05-11 14:41:11.846 [main] INFO  o.s.web.servlet.handler.SimpleUrlHandlerMapping - Mapped URL path [/**] onto handler of type [class org.springframework.web.servlet.resource.ResourceHttpRequestHandler]
+2017-05-11 14:41:11.862 [main] INFO  o.s.w.s.m.m.a.ExceptionHandlerExceptionResolver - Detected @ExceptionHandler methods in exceptionHandlerController
+2017-05-11 14:41:12.236 [main] INFO  o.s.w.servlet.view.freemarker.FreeMarkerConfigurer - ClassTemplateLoader for Spring macros added to FreeMarker configuration
+2017-05-11 14:41:12.330 [main] INFO  o.s.jmx.export.annotation.AnnotationMBeanExporter - Registering beans for JMX exposure on startup
+2017-05-11 14:41:12.346 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8080"]
+2017-05-11 14:41:12.354 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8080"]
+2017-05-11 14:41:12.368 [main] INFO  org.apache.tomcat.util.net.NioSelectorPool - Using a shared selector for servlet write/read
+2017-05-11 14:41:12.386 [main] INFO  o.s.b.c.e.tomcat.TomcatEmbeddedServletContainer - Tomcat started on port(s): 8080 (http)
+2017-05-11 14:41:12.390 [main] INFO  org.czy.com.importResource.testNo.Application - Started Application in 4.203 seconds (JVM running for 4.927)
+2017-05-11 14:43:02.375 [main] INFO  testPackage.Application - Starting Application on QKILUDV92DK1MMA with PID 228 (E:\ImportantData\IdeaJava\czy-framework-family\czy-study-spring-boot\czy-study-spring-boot-simple\target\classes started by Administrator in E:\ImportantData\IdeaJava\czy-framework-family\czy-study-spring-boot)
+2017-05-11 14:43:02.379 [main] INFO  testPackage.Application - The following profiles are active: dev
+2017-05-11 14:43:02.654 [main] INFO  o.s.b.c.e.AnnotationConfigEmbeddedWebApplicationContext - Refreshing org.springframework.boot.context.embedded.AnnotationConfigEmbeddedWebApplicationContext@3c22fc4c: startup date [Thu May 11 14:43:02 CST 2017]; root of context hierarchy
+2017-05-11 14:43:02.818 [background-preinit] INFO  org.hibernate.validator.internal.util.Version - HV000001: Hibernate Validator 5.3.5.Final
+2017-05-11 14:43:04.896 [main] INFO  o.s.b.c.e.tomcat.TomcatEmbeddedServletContainer - Tomcat initialized with port(s): 8080 (http)
+2017-05-11 14:43:04.908 [main] INFO  org.apache.catalina.core.StandardService - Starting service Tomcat
+2017-05-11 14:43:04.910 [main] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet Engine: Apache Tomcat/8.5.14
+2017-05-11 14:43:05.001 [localhost-startStop-1] INFO  o.a.c.c.ContainerBase.[Tomcat].[localhost].[/czy] - Initializing Spring embedded WebApplicationContext
+2017-05-11 14:43:05.002 [localhost-startStop-1] INFO  org.springframework.web.context.ContextLoader - Root WebApplicationContext: initialization completed in 2347 ms
+2017-05-11 14:43:05.156 [localhost-startStop-1] INFO  o.s.boot.web.servlet.ServletRegistrationBean - Mapping servlet: 'dispatcherServlet' to [/]
+2017-05-11 14:43:05.162 [localhost-startStop-1] INFO  o.s.boot.web.servlet.FilterRegistrationBean - Mapping filter: 'characterEncodingFilter' to: [/*]
+2017-05-11 14:43:05.163 [localhost-startStop-1] INFO  o.s.boot.web.servlet.FilterRegistrationBean - Mapping filter: 'hiddenHttpMethodFilter' to: [/*]
+2017-05-11 14:43:05.163 [localhost-startStop-1] INFO  o.s.boot.web.servlet.FilterRegistrationBean - Mapping filter: 'httpPutFormContentFilter' to: [/*]
+2017-05-11 14:43:05.164 [localhost-startStop-1] INFO  o.s.boot.web.servlet.FilterRegistrationBean - Mapping filter: 'requestContextFilter' to: [/*]
+2017-05-11 14:43:05.425 [main] INFO  o.s.w.s.m.m.a.RequestMappingHandlerAdapter - Looking for @ControllerAdvice: org.springframework.boot.context.embedded.AnnotationConfigEmbeddedWebApplicationContext@3c22fc4c: startup date [Thu May 11 14:43:02 CST 2017]; root of context hierarchy
+2017-05-11 14:43:05.492 [main] INFO  o.s.w.s.m.m.a.RequestMappingHandlerMapping - Mapped "{[/freemarker],methods=[GET]}" onto public java.lang.String org.czy.com.freemarker.FreemarkerController.getFreemarker(org.springframework.ui.Model)
+2017-05-11 14:43:05.493 [main] INFO  o.s.w.s.m.m.a.RequestMappingHandlerMapping - Mapped "{[/hello || /hello_test],methods=[GET]}" onto public java.lang.String org.czy.com.hello.HelloController.getHello()
+2017-05-11 14:43:05.494 [main] INFO  o.s.w.s.m.m.a.RequestMappingHandlerMapping - Mapped "{[/getJson],methods=[GET]}" onto public org.czy.com.pojo.User org.czy.com.json.JsonController.getJson()
+2017-05-11 14:43:05.495 [main] INFO  o.s.w.s.m.m.a.RequestMappingHandlerMapping - Mapped "{[/],methods=[GET],produces=[text/plain;charset=UTF-8]}" onto public java.lang.String org.czy.com.jsp.JspController.index()
+2017-05-11 14:43:05.495 [main] INFO  o.s.w.s.m.m.a.RequestMappingHandlerMapping - Mapped "{[/jsp]}" onto public org.springframework.web.servlet.ModelAndView org.czy.com.jsp.JspController.welcome()
+2017-05-11 14:43:05.496 [main] INFO  o.s.w.s.m.m.a.RequestMappingHandlerMapping - Mapped "{[/logback]}" onto public java.lang.String org.czy.com.logback.SampleLogbackApplication.getLogback()
+2017-05-11 14:43:05.496 [main] INFO  o.s.w.s.m.m.a.RequestMappingHandlerMapping - Mapped "{[/random],methods=[GET]}" onto public java.lang.String org.czy.com.random.RandomController.getRandom()
+2017-05-11 14:43:05.497 [main] INFO  o.s.w.s.m.m.a.RequestMappingHandlerMapping - Mapped "{[/thymeleaf]}" onto public java.lang.String org.czy.com.thymeleaf.ThymeleafController.getThymeleaf(java.util.Map<java.lang.String, java.lang.Object>)
+2017-05-11 14:43:05.499 [main] INFO  o.s.w.s.m.m.a.RequestMappingHandlerMapping - Mapped "{[/error]}" onto public org.springframework.http.ResponseEntity<java.util.Map<java.lang.String, java.lang.Object>> org.springframework.boot.autoconfigure.web.BasicErrorController.error(javax.servlet.http.HttpServletRequest)
+2017-05-11 14:43:05.499 [main] INFO  o.s.w.s.m.m.a.RequestMappingHandlerMapping - Mapped "{[/error],produces=[text/html]}" onto public org.springframework.web.servlet.ModelAndView org.springframework.boot.autoconfigure.web.BasicErrorController.errorHtml(javax.servlet.http.HttpServletRequest,javax.servlet.http.HttpServletResponse)
+2017-05-11 14:43:05.523 [main] INFO  o.s.web.servlet.handler.SimpleUrlHandlerMapping - Mapped URL path [/webjars/**] onto handler of type [class org.springframework.web.servlet.resource.ResourceHttpRequestHandler]
+2017-05-11 14:43:05.523 [main] INFO  o.s.web.servlet.handler.SimpleUrlHandlerMapping - Mapped URL path [/**] onto handler of type [class org.springframework.web.servlet.resource.ResourceHttpRequestHandler]
+2017-05-11 14:43:05.537 [main] INFO  o.s.w.s.m.m.a.ExceptionHandlerExceptionResolver - Detected @ExceptionHandler methods in exceptionHandlerController
+2017-05-11 14:43:05.892 [main] INFO  o.s.w.servlet.view.freemarker.FreeMarkerConfigurer - ClassTemplateLoader for Spring macros added to FreeMarker configuration
+2017-05-11 14:43:05.979 [main] INFO  o.s.jmx.export.annotation.AnnotationMBeanExporter - Registering beans for JMX exposure on startup
+2017-05-11 14:43:05.994 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8080"]
+2017-05-11 14:43:06.002 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8080"]
+2017-05-11 14:43:06.014 [main] INFO  org.apache.tomcat.util.net.NioSelectorPool - Using a shared selector for servlet write/read
+2017-05-11 14:43:06.032 [main] INFO  o.s.b.c.e.tomcat.TomcatEmbeddedServletContainer - Tomcat started on port(s): 8080 (http)
+2017-05-11 14:43:06.036 [main] INFO  testPackage.Application - Started Application in 4.049 seconds (JVM running for 4.826)
+2017-05-11 14:43:34.782 [main] INFO  testPackage.Application - Starting Application on QKILUDV92DK1MMA with PID 6440 (E:\ImportantData\IdeaJava\czy-framework-family\czy-study-spring-boot\czy-study-spring-boot-simple\target\classes started by Administrator in E:\ImportantData\IdeaJava\czy-framework-family\czy-study-spring-boot)
+2017-05-11 14:43:34.785 [main] INFO  testPackage.Application - The following profiles are active: dev
+2017-05-11 14:43:35.038 [main] INFO  o.s.b.c.e.AnnotationConfigEmbeddedWebApplicationContext - Refreshing org.springframework.boot.context.embedded.AnnotationConfigEmbeddedWebApplicationContext@3c22fc4c: startup date [Thu May 11 14:43:35 CST 2017]; root of context hierarchy
+2017-05-11 14:43:35.229 [background-preinit] INFO  org.hibernate.validator.internal.util.Version - HV000001: Hibernate Validator 5.3.5.Final
+2017-05-11 14:43:37.171 [main] INFO  o.s.b.c.e.tomcat.TomcatEmbeddedServletContainer - Tomcat initialized with port(s): 8080 (http)
+2017-05-11 14:43:37.181 [main] INFO  org.apache.catalina.core.StandardService - Starting service Tomcat
+2017-05-11 14:43:37.182 [main] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet Engine: Apache Tomcat/8.5.14
+2017-05-11 14:43:37.254 [localhost-startStop-1] INFO  o.a.c.c.ContainerBase.[Tomcat].[localhost].[/czy] - Initializing Spring embedded WebApplicationContext
+2017-05-11 14:43:37.254 [localhost-startStop-1] INFO  org.springframework.web.context.ContextLoader - Root WebApplicationContext: initialization completed in 2216 ms
+2017-05-11 14:43:37.373 [localhost-startStop-1] INFO  o.s.boot.web.servlet.ServletRegistrationBean - Mapping servlet: 'dispatcherServlet' to [/]
+2017-05-11 14:43:37.377 [localhost-startStop-1] INFO  o.s.boot.web.servlet.FilterRegistrationBean - Mapping filter: 'characterEncodingFilter' to: [/*]
+2017-05-11 14:43:37.378 [localhost-startStop-1] INFO  o.s.boot.web.servlet.FilterRegistrationBean - Mapping filter: 'hiddenHttpMethodFilter' to: [/*]
+2017-05-11 14:43:37.378 [localhost-startStop-1] INFO  o.s.boot.web.servlet.FilterRegistrationBean - Mapping filter: 'httpPutFormContentFilter' to: [/*]
+2017-05-11 14:43:37.378 [localhost-startStop-1] INFO  o.s.boot.web.servlet.FilterRegistrationBean - Mapping filter: 'requestContextFilter' to: [/*]
+2017-05-11 14:43:37.682 [main] INFO  o.s.w.s.m.m.a.RequestMappingHandlerAdapter - Looking for @ControllerAdvice: org.springframework.boot.context.embedded.AnnotationConfigEmbeddedWebApplicationContext@3c22fc4c: startup date [Thu May 11 14:43:35 CST 2017]; root of context hierarchy
+2017-05-11 14:43:37.737 [main] INFO  o.s.w.s.m.m.a.RequestMappingHandlerMapping - Mapped "{[/freemarker],methods=[GET]}" onto public java.lang.String org.czy.com.freemarker.FreemarkerController.getFreemarker(org.springframework.ui.Model)
+2017-05-11 14:43:37.738 [main] INFO  o.s.w.s.m.m.a.RequestMappingHandlerMapping - Mapped "{[/hello || /hello_test],methods=[GET]}" onto public java.lang.String org.czy.com.hello.HelloController.getHello()
+2017-05-11 14:43:37.739 [main] INFO  o.s.w.s.m.m.a.RequestMappingHandlerMapping - Mapped "{[/getJson],methods=[GET]}" onto public org.czy.com.pojo.User org.czy.com.json.JsonController.getJson()
+2017-05-11 14:43:37.740 [main] INFO  o.s.w.s.m.m.a.RequestMappingHandlerMapping - Mapped "{[/],methods=[GET],produces=[text/plain;charset=UTF-8]}" onto public java.lang.String org.czy.com.jsp.JspController.index()
+2017-05-11 14:43:37.740 [main] INFO  o.s.w.s.m.m.a.RequestMappingHandlerMapping - Mapped "{[/jsp]}" onto public org.springframework.web.servlet.ModelAndView org.czy.com.jsp.JspController.welcome()
+2017-05-11 14:43:37.740 [main] INFO  o.s.w.s.m.m.a.RequestMappingHandlerMapping - Mapped "{[/logback]}" onto public java.lang.String org.czy.com.logback.SampleLogbackApplication.getLogback()
+2017-05-11 14:43:37.741 [main] INFO  o.s.w.s.m.m.a.RequestMappingHandlerMapping - Mapped "{[/random],methods=[GET]}" onto public java.lang.String org.czy.com.random.RandomController.getRandom()
+2017-05-11 14:43:37.741 [main] INFO  o.s.w.s.m.m.a.RequestMappingHandlerMapping - Mapped "{[/thymeleaf]}" onto public java.lang.String org.czy.com.thymeleaf.ThymeleafController.getThymeleaf(java.util.Map<java.lang.String, java.lang.Object>)
+2017-05-11 14:43:37.743 [main] INFO  o.s.w.s.m.m.a.RequestMappingHandlerMapping - Mapped "{[/error]}" onto public org.springframework.http.ResponseEntity<java.util.Map<java.lang.String, java.lang.Object>> org.springframework.boot.autoconfigure.web.BasicErrorController.error(javax.servlet.http.HttpServletRequest)
+2017-05-11 14:43:37.744 [main] INFO  o.s.w.s.m.m.a.RequestMappingHandlerMapping - Mapped "{[/error],produces=[text/html]}" onto public org.springframework.web.servlet.ModelAndView org.springframework.boot.autoconfigure.web.BasicErrorController.errorHtml(javax.servlet.http.HttpServletRequest,javax.servlet.http.HttpServletResponse)
+2017-05-11 14:43:37.769 [main] INFO  o.s.web.servlet.handler.SimpleUrlHandlerMapping - Mapped URL path [/webjars/**] onto handler of type [class org.springframework.web.servlet.resource.ResourceHttpRequestHandler]
+2017-05-11 14:43:37.769 [main] INFO  o.s.web.servlet.handler.SimpleUrlHandlerMapping - Mapped URL path [/**] onto handler of type [class org.springframework.web.servlet.resource.ResourceHttpRequestHandler]
+2017-05-11 14:43:37.797 [main] INFO  o.s.w.s.m.m.a.ExceptionHandlerExceptionResolver - Detected @ExceptionHandler methods in exceptionHandlerController
+2017-05-11 14:43:38.138 [main] INFO  o.s.w.servlet.view.freemarker.FreeMarkerConfigurer - ClassTemplateLoader for Spring macros added to FreeMarker configuration
+2017-05-11 14:43:38.227 [main] INFO  o.s.jmx.export.annotation.AnnotationMBeanExporter - Registering beans for JMX exposure on startup
+2017-05-11 14:43:38.242 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8080"]
+2017-05-11 14:43:38.250 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8080"]
+2017-05-11 14:43:38.263 [main] INFO  org.apache.tomcat.util.net.NioSelectorPool - Using a shared selector for servlet write/read
+2017-05-11 14:43:38.281 [main] INFO  o.s.b.c.e.tomcat.TomcatEmbeddedServletContainer - Tomcat started on port(s): 8080 (http)
+2017-05-11 14:43:38.285 [main] INFO  testPackage.Application - Started Application in 3.907 seconds (JVM running for 4.869)
+2017-05-11 14:49:58.499 [main] INFO  org.czy.com.Application - Starting Application on QKILUDV92DK1MMA with PID 6288 (E:\ImportantData\IdeaJava\czy-framework-family\czy-study-spring-boot\czy-study-spring-boot-simple\target\classes started by Administrator in E:\ImportantData\IdeaJava\czy-framework-family\czy-study-spring-boot)
+2017-05-11 14:49:58.502 [main] INFO  org.czy.com.Application - The following profiles are active: dev
+2017-05-11 14:49:58.773 [main] INFO  o.s.b.c.e.AnnotationConfigEmbeddedWebApplicationContext - Refreshing org.springframework.boot.context.embedded.AnnotationConfigEmbeddedWebApplicationContext@7f552bd3: startup date [Thu May 11 14:49:58 CST 2017]; root of context hierarchy
+2017-05-11 14:49:58.938 [background-preinit] INFO  org.hibernate.validator.internal.util.Version - HV000001: Hibernate Validator 5.3.5.Final
+2017-05-11 14:50:01.103 [main] INFO  o.s.b.c.e.tomcat.TomcatEmbeddedServletContainer - Tomcat initialized with port(s): 8080 (http)
+2017-05-11 14:50:01.114 [main] INFO  org.apache.catalina.core.StandardService - Starting service Tomcat
+2017-05-11 14:50:01.115 [main] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet Engine: Apache Tomcat/8.5.14
+2017-05-11 14:50:01.203 [localhost-startStop-1] INFO  o.a.c.c.ContainerBase.[Tomcat].[localhost].[/czy] - Initializing Spring embedded WebApplicationContext
+2017-05-11 14:50:01.204 [localhost-startStop-1] INFO  org.springframework.web.context.ContextLoader - Root WebApplicationContext: initialization completed in 2431 ms
+2017-05-11 14:50:01.353 [localhost-startStop-1] INFO  o.s.boot.web.servlet.ServletRegistrationBean - Mapping servlet: 'dispatcherServlet' to [/]
+2017-05-11 14:50:01.358 [localhost-startStop-1] INFO  o.s.boot.web.servlet.FilterRegistrationBean - Mapping filter: 'characterEncodingFilter' to: [/*]
+2017-05-11 14:50:01.359 [localhost-startStop-1] INFO  o.s.boot.web.servlet.FilterRegistrationBean - Mapping filter: 'hiddenHttpMethodFilter' to: [/*]
+2017-05-11 14:50:01.359 [localhost-startStop-1] INFO  o.s.boot.web.servlet.FilterRegistrationBean - Mapping filter: 'httpPutFormContentFilter' to: [/*]
+2017-05-11 14:50:01.359 [localhost-startStop-1] INFO  o.s.boot.web.servlet.FilterRegistrationBean - Mapping filter: 'requestContextFilter' to: [/*]
+2017-05-11 14:50:01.402 [main] WARN  o.s.b.c.e.AnnotationConfigEmbeddedWebApplicationContext - Exception encountered during context initialization - cancelling refresh attempt: org.springframework.beans.factory.UnsatisfiedDependencyException: Error creating bean with name 'jsonController': Unsatisfied dependency expressed through field 'user'; nested exception is org.springframework.beans.factory.NoSuchBeanDefinitionException: No qualifying bean of type 'org.czy.com.pojo.User' available: expected at least 1 bean which qualifies as autowire candidate. Dependency annotations: {@org.springframework.beans.factory.annotation.Autowired(required=true)}
+2017-05-11 14:50:01.404 [main] INFO  org.apache.catalina.core.StandardService - Stopping service Tomcat
+2017-05-11 14:50:01.430 [main] INFO  o.s.b.a.l.AutoConfigurationReportLoggingInitializer - 
+
+Error starting ApplicationContext. To display the auto-configuration report re-run your application with 'debug' enabled.
+2017-05-11 14:50:01.712 [main] ERROR o.s.b.diagnostics.LoggingFailureAnalysisReporter - 
+
+***************************
+APPLICATION FAILED TO START
+***************************
+
+Description:
+
+Field user in org.czy.com.json.JsonController required a bean of type 'org.czy.com.pojo.User' that could not be found.
+
+
+Action:
+
+Consider defining a bean of type 'org.czy.com.pojo.User' in your configuration.
+
+2017-05-11 14:50:45.778 [main] INFO  org.czy.com.Application - Starting Application on QKILUDV92DK1MMA with PID 6556 (E:\ImportantData\IdeaJava\czy-framework-family\czy-study-spring-boot\czy-study-spring-boot-simple\target\classes started by Administrator in E:\ImportantData\IdeaJava\czy-framework-family\czy-study-spring-boot)
+2017-05-11 14:50:45.781 [main] INFO  org.czy.com.Application - The following profiles are active: dev
+2017-05-11 14:50:46.062 [main] INFO  o.s.b.c.e.AnnotationConfigEmbeddedWebApplicationContext - Refreshing org.springframework.boot.context.embedded.AnnotationConfigEmbeddedWebApplicationContext@7f552bd3: startup date [Thu May 11 14:50:46 CST 2017]; root of context hierarchy
+2017-05-11 14:50:46.235 [background-preinit] INFO  org.hibernate.validator.internal.util.Version - HV000001: Hibernate Validator 5.3.5.Final
+2017-05-11 14:50:48.109 [main] INFO  o.s.b.c.e.tomcat.TomcatEmbeddedServletContainer - Tomcat initialized with port(s): 8080 (http)
+2017-05-11 14:50:48.119 [main] INFO  org.apache.catalina.core.StandardService - Starting service Tomcat
+2017-05-11 14:50:48.120 [main] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet Engine: Apache Tomcat/8.5.14
+2017-05-11 14:50:48.199 [localhost-startStop-1] INFO  o.a.c.c.ContainerBase.[Tomcat].[localhost].[/czy] - Initializing Spring embedded WebApplicationContext
+2017-05-11 14:50:48.200 [localhost-startStop-1] INFO  org.springframework.web.context.ContextLoader - Root WebApplicationContext: initialization completed in 2138 ms
+2017-05-11 14:50:48.336 [localhost-startStop-1] INFO  o.s.boot.web.servlet.ServletRegistrationBean - Mapping servlet: 'dispatcherServlet' to [/]
+2017-05-11 14:50:48.341 [localhost-startStop-1] INFO  o.s.boot.web.servlet.FilterRegistrationBean - Mapping filter: 'characterEncodingFilter' to: [/*]
+2017-05-11 14:50:48.341 [localhost-startStop-1] INFO  o.s.boot.web.servlet.FilterRegistrationBean - Mapping filter: 'hiddenHttpMethodFilter' to: [/*]
+2017-05-11 14:50:48.342 [localhost-startStop-1] INFO  o.s.boot.web.servlet.FilterRegistrationBean - Mapping filter: 'httpPutFormContentFilter' to: [/*]
+2017-05-11 14:50:48.342 [localhost-startStop-1] INFO  o.s.boot.web.servlet.FilterRegistrationBean - Mapping filter: 'requestContextFilter' to: [/*]
+2017-05-11 14:50:48.385 [main] WARN  o.s.b.c.e.AnnotationConfigEmbeddedWebApplicationContext - Exception encountered during context initialization - cancelling refresh attempt: org.springframework.beans.factory.UnsatisfiedDependencyException: Error creating bean with name 'jsonController': Unsatisfied dependency expressed through field 'user'; nested exception is org.springframework.beans.factory.NoSuchBeanDefinitionException: No qualifying bean of type 'org.czy.com.pojo.User' available: expected at least 1 bean which qualifies as autowire candidate. Dependency annotations: {@org.springframework.beans.factory.annotation.Autowired(required=true)}
+2017-05-11 14:50:48.387 [main] INFO  org.apache.catalina.core.StandardService - Stopping service Tomcat
+2017-05-11 14:50:48.402 [main] INFO  o.s.b.a.l.AutoConfigurationReportLoggingInitializer - 
+
+Error starting ApplicationContext. To display the auto-configuration report re-run your application with 'debug' enabled.
+2017-05-11 14:50:48.485 [main] ERROR o.s.b.diagnostics.LoggingFailureAnalysisReporter - 
+
+***************************
+APPLICATION FAILED TO START
+***************************
+
+Description:
+
+Field user in org.czy.com.json.JsonController required a bean of type 'org.czy.com.pojo.User' that could not be found.
+
+
+Action:
+
+Consider defining a bean of type 'org.czy.com.pojo.User' in your configuration.
+
+2017-05-11 14:51:35.170 [main] INFO  org.czy.com.Application - Starting Application on QKILUDV92DK1MMA with PID 6892 (E:\ImportantData\IdeaJava\czy-framework-family\czy-study-spring-boot\czy-study-spring-boot-simple\target\classes started by Administrator in E:\ImportantData\IdeaJava\czy-framework-family\czy-study-spring-boot)
+2017-05-11 14:51:35.174 [main] INFO  org.czy.com.Application - The following profiles are active: dev
+2017-05-11 14:51:35.435 [main] INFO  o.s.b.c.e.AnnotationConfigEmbeddedWebApplicationContext - Refreshing org.springframework.boot.context.embedded.AnnotationConfigEmbeddedWebApplicationContext@7f552bd3: startup date [Thu May 11 14:51:35 CST 2017]; root of context hierarchy
+2017-05-11 14:51:35.584 [background-preinit] INFO  org.hibernate.validator.internal.util.Version - HV000001: Hibernate Validator 5.3.5.Final
+2017-05-11 14:51:36.118 [main] INFO  o.s.beans.factory.xml.XmlBeanDefinitionReader - Loading XML bean definitions from class path resource [application-bean.xml]
+2017-05-11 14:51:38.081 [main] INFO  o.s.b.c.e.tomcat.TomcatEmbeddedServletContainer - Tomcat initialized with port(s): 8080 (http)
+2017-05-11 14:51:38.092 [main] INFO  org.apache.catalina.core.StandardService - Starting service Tomcat
+2017-05-11 14:51:38.093 [main] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet Engine: Apache Tomcat/8.5.14
+2017-05-11 14:51:38.168 [localhost-startStop-1] INFO  o.a.c.c.ContainerBase.[Tomcat].[localhost].[/czy] - Initializing Spring embedded WebApplicationContext
+2017-05-11 14:51:38.168 [localhost-startStop-1] INFO  org.springframework.web.context.ContextLoader - Root WebApplicationContext: initialization completed in 2733 ms
+2017-05-11 14:51:38.286 [localhost-startStop-1] INFO  o.s.boot.web.servlet.ServletRegistrationBean - Mapping servlet: 'dispatcherServlet' to [/]
+2017-05-11 14:51:38.297 [localhost-startStop-1] INFO  o.s.boot.web.servlet.FilterRegistrationBean - Mapping filter: 'characterEncodingFilter' to: [/*]
+2017-05-11 14:51:38.298 [localhost-startStop-1] INFO  o.s.boot.web.servlet.FilterRegistrationBean - Mapping filter: 'hiddenHttpMethodFilter' to: [/*]
+2017-05-11 14:51:38.298 [localhost-startStop-1] INFO  o.s.boot.web.servlet.FilterRegistrationBean - Mapping filter: 'httpPutFormContentFilter' to: [/*]
+2017-05-11 14:51:38.298 [localhost-startStop-1] INFO  o.s.boot.web.servlet.FilterRegistrationBean - Mapping filter: 'requestContextFilter' to: [/*]
+2017-05-11 14:51:38.675 [main] INFO  o.s.w.s.m.m.a.RequestMappingHandlerAdapter - Looking for @ControllerAdvice: org.springframework.boot.context.embedded.AnnotationConfigEmbeddedWebApplicationContext@7f552bd3: startup date [Thu May 11 14:51:35 CST 2017]; root of context hierarchy
+2017-05-11 14:51:38.727 [main] INFO  o.s.w.s.m.m.a.RequestMappingHandlerMapping - Mapped "{[/freemarker],methods=[GET]}" onto public java.lang.String org.czy.com.freemarker.FreemarkerController.getFreemarker(org.springframework.ui.Model)
+2017-05-11 14:51:38.729 [main] INFO  o.s.w.s.m.m.a.RequestMappingHandlerMapping - Mapped "{[/hello || /hello_test],methods=[GET]}" onto public java.lang.String org.czy.com.hello.HelloController.getHello()
+2017-05-11 14:51:38.730 [main] INFO  o.s.w.s.m.m.a.RequestMappingHandlerMapping - Mapped "{[/getJson],methods=[GET]}" onto public org.czy.com.pojo.User org.czy.com.json.JsonController.getJson()
+2017-05-11 14:51:38.730 [main] INFO  o.s.w.s.m.m.a.RequestMappingHandlerMapping - Mapped "{[/],methods=[GET],produces=[text/plain;charset=UTF-8]}" onto public java.lang.String org.czy.com.jsp.JspController.index()
+2017-05-11 14:51:38.731 [main] INFO  o.s.w.s.m.m.a.RequestMappingHandlerMapping - Mapped "{[/jsp]}" onto public org.springframework.web.servlet.ModelAndView org.czy.com.jsp.JspController.welcome()
+2017-05-11 14:51:38.731 [main] INFO  o.s.w.s.m.m.a.RequestMappingHandlerMapping - Mapped "{[/logback]}" onto public java.lang.String org.czy.com.logback.SampleLogbackApplication.getLogback()
+2017-05-11 14:51:38.731 [main] INFO  o.s.w.s.m.m.a.RequestMappingHandlerMapping - Mapped "{[/random],methods=[GET]}" onto public java.lang.String org.czy.com.random.RandomController.getRandom()
+2017-05-11 14:51:38.732 [main] INFO  o.s.w.s.m.m.a.RequestMappingHandlerMapping - Mapped "{[/thymeleaf]}" onto public java.lang.String org.czy.com.thymeleaf.ThymeleafController.getThymeleaf(java.util.Map<java.lang.String, java.lang.Object>)
+2017-05-11 14:51:38.735 [main] INFO  o.s.w.s.m.m.a.RequestMappingHandlerMapping - Mapped "{[/error]}" onto public org.springframework.http.ResponseEntity<java.util.Map<java.lang.String, java.lang.Object>> org.springframework.boot.autoconfigure.web.BasicErrorController.error(javax.servlet.http.HttpServletRequest)
+2017-05-11 14:51:38.735 [main] INFO  o.s.w.s.m.m.a.RequestMappingHandlerMapping - Mapped "{[/error],produces=[text/html]}" onto public org.springframework.web.servlet.ModelAndView org.springframework.boot.autoconfigure.web.BasicErrorController.errorHtml(javax.servlet.http.HttpServletRequest,javax.servlet.http.HttpServletResponse)
+2017-05-11 14:51:38.759 [main] INFO  o.s.web.servlet.handler.SimpleUrlHandlerMapping - Mapped URL path [/webjars/**] onto handler of type [class org.springframework.web.servlet.resource.ResourceHttpRequestHandler]
+2017-05-11 14:51:38.759 [main] INFO  o.s.web.servlet.handler.SimpleUrlHandlerMapping - Mapped URL path [/**] onto handler of type [class org.springframework.web.servlet.resource.ResourceHttpRequestHandler]
+2017-05-11 14:51:38.775 [main] INFO  o.s.w.s.m.m.a.ExceptionHandlerExceptionResolver - Detected @ExceptionHandler methods in exceptionHandlerController
+2017-05-11 14:51:39.122 [main] INFO  o.s.w.servlet.view.freemarker.FreeMarkerConfigurer - ClassTemplateLoader for Spring macros added to FreeMarker configuration
+2017-05-11 14:51:39.209 [main] INFO  o.s.jmx.export.annotation.AnnotationMBeanExporter - Registering beans for JMX exposure on startup
+2017-05-11 14:51:39.226 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8080"]
+2017-05-11 14:51:39.234 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8080"]
+2017-05-11 14:51:39.247 [main] INFO  org.apache.tomcat.util.net.NioSelectorPool - Using a shared selector for servlet write/read
+2017-05-11 14:51:39.265 [main] INFO  o.s.b.c.e.tomcat.TomcatEmbeddedServletContainer - Tomcat started on port(s): 8080 (http)
+2017-05-11 14:51:39.269 [main] INFO  org.czy.com.Application - Started Application in 4.541 seconds (JVM running for 5.214)
+2017-05-11 14:51:48.642 [main] INFO  org.czy.com.Application - Starting Application on QKILUDV92DK1MMA with PID 6856 (E:\ImportantData\IdeaJava\czy-framework-family\czy-study-spring-boot\czy-study-spring-boot-simple\target\classes started by Administrator in E:\ImportantData\IdeaJava\czy-framework-family\czy-study-spring-boot)
+2017-05-11 14:51:48.645 [main] INFO  org.czy.com.Application - The following profiles are active: dev
+2017-05-11 14:51:48.909 [main] INFO  o.s.b.c.e.AnnotationConfigEmbeddedWebApplicationContext - Refreshing org.springframework.boot.context.embedded.AnnotationConfigEmbeddedWebApplicationContext@7f552bd3: startup date [Thu May 11 14:51:48 CST 2017]; root of context hierarchy
+2017-05-11 14:51:49.131 [background-preinit] INFO  org.hibernate.validator.internal.util.Version - HV000001: Hibernate Validator 5.3.5.Final
+2017-05-11 14:51:51.307 [main] INFO  o.s.b.c.e.tomcat.TomcatEmbeddedServletContainer - Tomcat initialized with port(s): 8080 (http)
+2017-05-11 14:51:51.319 [main] INFO  org.apache.catalina.core.StandardService - Starting service Tomcat
+2017-05-11 14:51:51.321 [main] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet Engine: Apache Tomcat/8.5.14
+2017-05-11 14:51:51.413 [localhost-startStop-1] INFO  o.a.c.c.ContainerBase.[Tomcat].[localhost].[/czy] - Initializing Spring embedded WebApplicationContext
+2017-05-11 14:51:51.414 [localhost-startStop-1] INFO  org.springframework.web.context.ContextLoader - Root WebApplicationContext: initialization completed in 2505 ms
+2017-05-11 14:51:51.580 [localhost-startStop-1] INFO  o.s.boot.web.servlet.ServletRegistrationBean - Mapping servlet: 'dispatcherServlet' to [/]
+2017-05-11 14:51:51.585 [localhost-startStop-1] INFO  o.s.boot.web.servlet.FilterRegistrationBean - Mapping filter: 'characterEncodingFilter' to: [/*]
+2017-05-11 14:51:51.585 [localhost-startStop-1] INFO  o.s.boot.web.servlet.FilterRegistrationBean - Mapping filter: 'hiddenHttpMethodFilter' to: [/*]
+2017-05-11 14:51:51.586 [localhost-startStop-1] INFO  o.s.boot.web.servlet.FilterRegistrationBean - Mapping filter: 'httpPutFormContentFilter' to: [/*]
+2017-05-11 14:51:51.586 [localhost-startStop-1] INFO  o.s.boot.web.servlet.FilterRegistrationBean - Mapping filter: 'requestContextFilter' to: [/*]
+2017-05-11 14:51:51.639 [main] WARN  o.s.b.c.e.AnnotationConfigEmbeddedWebApplicationContext - Exception encountered during context initialization - cancelling refresh attempt: org.springframework.beans.factory.UnsatisfiedDependencyException: Error creating bean with name 'jsonController': Unsatisfied dependency expressed through field 'user'; nested exception is org.springframework.beans.factory.NoSuchBeanDefinitionException: No qualifying bean of type 'org.czy.com.pojo.User' available: expected at least 1 bean which qualifies as autowire candidate. Dependency annotations: {@org.springframework.beans.factory.annotation.Autowired(required=true)}
+2017-05-11 14:51:51.643 [main] INFO  org.apache.catalina.core.StandardService - Stopping service Tomcat
+2017-05-11 14:51:51.660 [main] INFO  o.s.b.a.l.AutoConfigurationReportLoggingInitializer - 
+
+Error starting ApplicationContext. To display the auto-configuration report re-run your application with 'debug' enabled.
+2017-05-11 14:51:51.767 [main] ERROR o.s.b.diagnostics.LoggingFailureAnalysisReporter - 
+
+***************************
+APPLICATION FAILED TO START
+***************************
+
+Description:
+
+Field user in org.czy.com.json.JsonController required a bean of type 'org.czy.com.pojo.User' that could not be found.
+
+
+Action:
+
+Consider defining a bean of type 'org.czy.com.pojo.User' in your configuration.
+
+2017-05-11 14:52:06.556 [main] INFO  org.czy.com.Application - Starting Application on QKILUDV92DK1MMA with PID 6680 (E:\ImportantData\IdeaJava\czy-framework-family\czy-study-spring-boot\czy-study-spring-boot-simple\target\classes started by Administrator in E:\ImportantData\IdeaJava\czy-framework-family\czy-study-spring-boot)
+2017-05-11 14:52:06.559 [main] INFO  org.czy.com.Application - The following profiles are active: dev
+2017-05-11 14:52:06.888 [main] INFO  o.s.b.c.e.AnnotationConfigEmbeddedWebApplicationContext - Refreshing org.springframework.boot.context.embedded.AnnotationConfigEmbeddedWebApplicationContext@7f552bd3: startup date [Thu May 11 14:52:06 CST 2017]; root of context hierarchy
+2017-05-11 14:52:07.122 [background-preinit] INFO  org.hibernate.validator.internal.util.Version - HV000001: Hibernate Validator 5.3.5.Final
+2017-05-11 14:52:07.589 [main] INFO  o.s.beans.factory.xml.XmlBeanDefinitionReader - Loading XML bean definitions from class path resource [application-bean.xml]
+2017-05-11 14:52:09.534 [main] INFO  o.s.b.c.e.tomcat.TomcatEmbeddedServletContainer - Tomcat initialized with port(s): 8080 (http)
+2017-05-11 14:52:09.546 [main] INFO  org.apache.catalina.core.StandardService - Starting service Tomcat
+2017-05-11 14:52:09.547 [main] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet Engine: Apache Tomcat/8.5.14
+2017-05-11 14:52:09.650 [localhost-startStop-1] INFO  o.a.c.c.ContainerBase.[Tomcat].[localhost].[/czy] - Initializing Spring embedded WebApplicationContext
+2017-05-11 14:52:09.651 [localhost-startStop-1] INFO  org.springframework.web.context.ContextLoader - Root WebApplicationContext: initialization completed in 2763 ms
+2017-05-11 14:52:09.813 [localhost-startStop-1] INFO  o.s.boot.web.servlet.ServletRegistrationBean - Mapping servlet: 'dispatcherServlet' to [/]
+2017-05-11 14:52:09.817 [localhost-startStop-1] INFO  o.s.boot.web.servlet.FilterRegistrationBean - Mapping filter: 'characterEncodingFilter' to: [/*]
+2017-05-11 14:52:09.818 [localhost-startStop-1] INFO  o.s.boot.web.servlet.FilterRegistrationBean - Mapping filter: 'hiddenHttpMethodFilter' to: [/*]
+2017-05-11 14:52:09.818 [localhost-startStop-1] INFO  o.s.boot.web.servlet.FilterRegistrationBean - Mapping filter: 'httpPutFormContentFilter' to: [/*]
+2017-05-11 14:52:09.818 [localhost-startStop-1] INFO  o.s.boot.web.servlet.FilterRegistrationBean - Mapping filter: 'requestContextFilter' to: [/*]
+2017-05-11 14:52:10.124 [main] INFO  o.s.w.s.m.m.a.RequestMappingHandlerAdapter - Looking for @ControllerAdvice: org.springframework.boot.context.embedded.AnnotationConfigEmbeddedWebApplicationContext@7f552bd3: startup date [Thu May 11 14:52:06 CST 2017]; root of context hierarchy
+2017-05-11 14:52:10.192 [main] INFO  o.s.w.s.m.m.a.RequestMappingHandlerMapping - Mapped "{[/freemarker],methods=[GET]}" onto public java.lang.String org.czy.com.freemarker.FreemarkerController.getFreemarker(org.springframework.ui.Model)
+2017-05-11 14:52:10.193 [main] INFO  o.s.w.s.m.m.a.RequestMappingHandlerMapping - Mapped "{[/hello || /hello_test],methods=[GET]}" onto public java.lang.String org.czy.com.hello.HelloController.getHello()
+2017-05-11 14:52:10.194 [main] INFO  o.s.w.s.m.m.a.RequestMappingHandlerMapping - Mapped "{[/getJson],methods=[GET]}" onto public org.czy.com.pojo.User org.czy.com.json.JsonController.getJson()
+2017-05-11 14:52:10.195 [main] INFO  o.s.w.s.m.m.a.RequestMappingHandlerMapping - Mapped "{[/],methods=[GET],produces=[text/plain;charset=UTF-8]}" onto public java.lang.String org.czy.com.jsp.JspController.index()
+2017-05-11 14:52:10.196 [main] INFO  o.s.w.s.m.m.a.RequestMappingHandlerMapping - Mapped "{[/jsp]}" onto public org.springframework.web.servlet.ModelAndView org.czy.com.jsp.JspController.welcome()
+2017-05-11 14:52:10.196 [main] INFO  o.s.w.s.m.m.a.RequestMappingHandlerMapping - Mapped "{[/logback]}" onto public java.lang.String org.czy.com.logback.SampleLogbackApplication.getLogback()
+2017-05-11 14:52:10.197 [main] INFO  o.s.w.s.m.m.a.RequestMappingHandlerMapping - Mapped "{[/random],methods=[GET]}" onto public java.lang.String org.czy.com.random.RandomController.getRandom()
+2017-05-11 14:52:10.197 [main] INFO  o.s.w.s.m.m.a.RequestMappingHandlerMapping - Mapped "{[/thymeleaf]}" onto public java.lang.String org.czy.com.thymeleaf.ThymeleafController.getThymeleaf(java.util.Map<java.lang.String, java.lang.Object>)
+2017-05-11 14:52:10.200 [main] INFO  o.s.w.s.m.m.a.RequestMappingHandlerMapping - Mapped "{[/error]}" onto public org.springframework.http.ResponseEntity<java.util.Map<java.lang.String, java.lang.Object>> org.springframework.boot.autoconfigure.web.BasicErrorController.error(javax.servlet.http.HttpServletRequest)
+2017-05-11 14:52:10.201 [main] INFO  o.s.w.s.m.m.a.RequestMappingHandlerMapping - Mapped "{[/error],produces=[text/html]}" onto public org.springframework.web.servlet.ModelAndView org.springframework.boot.autoconfigure.web.BasicErrorController.errorHtml(javax.servlet.http.HttpServletRequest,javax.servlet.http.HttpServletResponse)
+2017-05-11 14:52:10.233 [main] INFO  o.s.web.servlet.handler.SimpleUrlHandlerMapping - Mapped URL path [/webjars/**] onto handler of type [class org.springframework.web.servlet.resource.ResourceHttpRequestHandler]
+2017-05-11 14:52:10.233 [main] INFO  o.s.web.servlet.handler.SimpleUrlHandlerMapping - Mapped URL path [/**] onto handler of type [class org.springframework.web.servlet.resource.ResourceHttpRequestHandler]
+2017-05-11 14:52:10.251 [main] INFO  o.s.w.s.m.m.a.ExceptionHandlerExceptionResolver - Detected @ExceptionHandler methods in exceptionHandlerController
+2017-05-11 14:52:10.664 [main] INFO  o.s.w.servlet.view.freemarker.FreeMarkerConfigurer - ClassTemplateLoader for Spring macros added to FreeMarker configuration
+2017-05-11 14:52:10.779 [main] INFO  o.s.jmx.export.annotation.AnnotationMBeanExporter - Registering beans for JMX exposure on startup
+2017-05-11 14:52:10.794 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8080"]
+2017-05-11 14:52:10.801 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8080"]
+2017-05-11 14:52:10.814 [main] INFO  org.apache.tomcat.util.net.NioSelectorPool - Using a shared selector for servlet write/read
+2017-05-11 14:52:10.831 [main] INFO  o.s.b.c.e.tomcat.TomcatEmbeddedServletContainer - Tomcat started on port(s): 8080 (http)
+2017-05-11 14:52:10.837 [main] INFO  org.czy.com.Application - Started Application in 4.76 seconds (JVM running for 5.515)
+2017-05-11 14:52:27.121 [http-nio-8080-exec-1] INFO  o.a.c.c.ContainerBase.[Tomcat].[localhost].[/czy] - Initializing Spring FrameworkServlet 'dispatcherServlet'
+2017-05-11 14:52:27.122 [http-nio-8080-exec-1] INFO  org.springframework.web.servlet.DispatcherServlet - FrameworkServlet 'dispatcherServlet': initialization started
+2017-05-11 14:52:27.166 [http-nio-8080-exec-1] INFO  org.springframework.web.servlet.DispatcherServlet - FrameworkServlet 'dispatcherServlet': initialization completed in 44 ms

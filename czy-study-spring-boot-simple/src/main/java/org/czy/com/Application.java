@@ -14,9 +14,11 @@ import org.springframework.boot.web.support.SpringBootServletInitializer;
  * @URL地址
  * @进度描述
  */
-//扫描：该包下相应的class,主要是MyBatis的持久化类。
 @SpringBootApplication
 public class Application {
+
+    // 根据Spring Boot扫描（根包到子包的原则）,这里我就写一个main 方法。
+    // 如果需要，某包下有多一个Application.java
 
     // mvn spring-boot:run或在IDE中运行main()方法，
     public static void main(String[] args) {

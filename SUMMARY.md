@@ -16,7 +16,8 @@ spring boot 实战指南
     * [3.1 Logback日志配置与使用](springboot/三/1.3Logback日志配置.md)
     
     
-    
+* 第四章 导入XML配置文件
+    * [4.1 Spring Boot导入XML配置](springboot/四/4.1Spring Boot导入XML配置.md)
     
     
     

@@ -13,12 +13,14 @@
     2、web开发 freemarker模板的使用   
     3、web开发 thymeleaf模板的使用    
     4、web开发 jsp模板的使用  （坑：必须注意用插件运行 mvn spring-boot:run）
-    5、Exception  异常处理
-    6、random     随机数的使用
-    7、logback    日志的使用
-    8、fastJson   处理
-    9、Jackson    处理
-
+    5、Exception     异常处理
+    6、random        随机数的使用
+    7、logback       日志的使用
+    8、fastJson      处理
+    9、Jackson       处理
+    10、SpringBoot   导入XML配置
+    
+    
 
 #### czy-study-spring-boot-mybatis 模块[[mybatis模块代码]](https://github.com/AndyCZY/czy-study-spring-boot/tree/master/czy-study-spring-boot-mybatis)
     1、注解的方式
