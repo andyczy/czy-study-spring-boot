@@ -16,7 +16,7 @@
     5、Exception     异常处理
     6、random        随机数的使用
     7、logback       日志的使用
-    8、SpringBoot   导入XML配置
+    8、SpringBoot    导入XML配置
     
     
     
@@ -39,9 +39,9 @@
 [[spring官网]](https://github.com/spring-projects/spring-boot  )
 [[mybatis官网]](https://github.com/mybatis/spring-boot-starter)
 [[logback官网]](https://logback.qos.ch/ "logback官网")
-[[翟永超文章 ]](http://git.oschina.net/zhou666/spring-cloud-7simple)
-[[周立文章 ]](http://git.oschina.net/it-much)
-
+[[翟永超文章]](http://git.oschina.net/zhou666/spring-cloud-7simple)
+[[周立文章]](http://git.oschina.net/it-much)
+[[林祥纤文章]](http://my.csdn.net/linxingliang)
 
 
 ## 更多问题
