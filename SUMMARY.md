@@ -9,11 +9,12 @@ spring boot 实战手册
 
 
 * 第二章 SpringBoot 进阶学习
-    * [2.1 常用模板的使用](springboot/二/2.1模板的使用.md)
-    * [2.2 集成mybatis](springboot/二/2.2集成mybatis.md)
-    * [2.3 Logback日志配置与使用](springboot/二/2.3Logback日志配置.md)
-    * [2.4 导入XML配置](springboot/二/2.4Spring Boot导入XML配置.md)
-    
+    * [2.1 freemarker模板的使用](springboot/二/2.1freemarker模板的使用.md)
+    * [2.2 thymeleaf模板的使用](springboot/二/2.2thymeleaf模板的使用.md)
+    * [2.3 jsp模板的使用](springboot/二/2.3jsp模板的使用.md)
+    * [2.4 集成mybatis](springboot/二/2.4集成mybatis.md)
+    * [2.5 导入XML配置](springboot/二/2.5Spring Boot导入XML配置.md)
+    * [2.6 Logback日志配置与使用](springboot/二/2.6Logback日志配置.md)
     
     
     
