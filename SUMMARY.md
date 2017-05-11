@@ -12,7 +12,7 @@ spring boot 实战手册
     * [2.1 常用模板的使用](springboot/二/2.1模板的使用.md)
     * [2.2 集成mybatis](springboot/二/2.2集成mybatis.md)
     * [2.3 Logback日志配置与使用](springboot/二/2.3Logback日志配置.md)
-    * [2.4 Spring Boot导入XML配置](springboot/二/2.4Spring Boot导入XML配置.md)
+    * [2.4 导入XML配置](springboot/二/2.4Spring Boot导入XML配置.md)
     
     
     
