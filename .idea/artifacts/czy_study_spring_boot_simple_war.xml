@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="czy-study-spring-boot-simple:war">
+    <output-path>$PROJECT_DIR$/czy-study-spring-boot-simple/target</output-path>
+    <root id="archive" name="czy-study-spring-boot-simple-0.0.1-SNAPSHOT.war">
+      <element id="artifact" artifact-name="czy-study-spring-boot-simple:war exploded" />
+    </root>
+  </artifact>
+</component>

@@ -6,7 +6,7 @@
 	<groupId>org.czy.com</groupId>
 	<artifactId>czy-study-spring-boot-simple</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<packaging>jar</packaging>
+	<packaging>war</packaging>
 
 	<name>czy-study-spring-boot-simple</name>
 	<description>Demo project for Spring Boot</description>
