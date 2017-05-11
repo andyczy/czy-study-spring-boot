@@ -1,4 +1,4 @@
-# spring boot 实践指南
+# spring boot 实践手册
 ##### [[博客地址：http://blog.csdn.net/javawebrookie]](http://blog.csdn.net/javawebrookie "陈郑游")         
 ##### Author: 陈郑游
 ##### motto：Take the dream life!
