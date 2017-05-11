@@ -40,7 +40,10 @@
 [[mybatis官网]](https://github.com/mybatis/spring-boot-starter)
 [[logback官网]](https://logback.qos.ch/ "logback官网")      
 Spring Boot实战 ,丁雪丰 (译者)  书籍    
-JavaEE开发的颠覆者 Spring Boot实战  书籍 
+JavaEE开发的颠覆者 Spring Boot实战  书籍      
+[[周立文章]](http://git.oschina.net/it-much)
+[[翟永超文章]](http://git.oschina.net/zhou666/spring-cloud-7simple)
+[[林祥纤文章]](http://my.csdn.net/linxingliang)  
 
 
 

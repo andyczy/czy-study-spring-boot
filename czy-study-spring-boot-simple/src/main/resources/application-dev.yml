@@ -1,8 +1,16 @@
+
 server:
   # 端口 默认8080
   port: 8080
   # path
   context-path: /czy
+
+  tomcat:
+    # tomcat 编码
+    uri-encoding: utf-8
+    # 设置内嵌Tomcat的最大线程数
+    max-threads: 1000
+
 
 
 
@@ -21,3 +29,5 @@ messageValue.bignumber: ${random.long}
 messageValue.test1: ${random.int(10)}
 # 10-20的随机数
 messageValue.test2: ${random.int[10,20]}
+
+

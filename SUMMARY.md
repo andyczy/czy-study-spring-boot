@@ -16,8 +16,14 @@ spring boot 实战手册
     * [2.5 Logback日志配置与使用](springboot/二/2.6Logback日志配置.md)
     * [2.6 json处理]()
     
+    
 * 第三章 SpringBoot 数据访问
    * [2.4 集成mybatis](springboot/三/2.4集成mybatis.md)
+    
+    
+* 第四章 SpringBoot 内嵌服务器
+   * [4.1 内嵌服务器](springboot/四/4.1内嵌服务器.md)
+    
     
     
     

@@ -28,7 +28,11 @@
 
 	<dependencies>
 
-
+		<!--actuator-->
+		<dependency>
+			<groupId>org.springframework.boot</groupId>
+			<artifactId>spring-boot-starter-actuator</artifactId>
+		</dependency>
 
 
 		<!--用jsp必须注释掉thymeleaf依赖、而且一个项目只有一个Application.java才不报错，所以一般不推荐使用jsp了-->
