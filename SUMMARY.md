@@ -9,18 +9,10 @@ spring boot 实战手册
 
 
 * 第二章 SpringBoot 进阶学习
-    * [2.1 常用模板的使用](springboot/二/1模板的使用.md)
+    * [2.1 常用模板的使用](springboot/二/2.1模板的使用.md)
     * [2.2 集成mybatis](springboot/二/2.2集成mybatis.md)
-    
- 
-    
-    
-* 第三章 SpringBoot 日志系统 
-    * [3.1 Logback日志配置与使用](springboot/三/1.3Logback日志配置.md)
-    
-    
-* 第四章 SpringBoot 导入XML配置文件
-    * [4.1 Spring Boot导入XML配置](springboot/四/4.1Spring Boot导入XML配置.md)
+    * [2.3 Logback日志配置与使用](springboot/二/2.3Logback日志配置.md)
+    * [2.4 Spring Boot导入XML配置](springboot/二/2.4Spring Boot导入XML配置.md)
     
     
     
