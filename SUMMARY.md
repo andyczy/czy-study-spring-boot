@@ -17,7 +17,8 @@ spring boot 实战手册
     
     
 * 第三章 SpringBoot 数据访问
-   * [2.4 集成mybatis](springboot/三/2.1注解的方式.md)
+   * [3.1 注解的方式](springboot/三/2.1注解的方式.md)
+   * [3.2 xml的方式](springboot/三/2.2xml的方式.md)
     
     
 * 第四章 SpringBoot 内嵌服务器
