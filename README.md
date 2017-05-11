@@ -38,17 +38,20 @@
 ## 参考文献
 [[spring官网]](https://github.com/spring-projects/spring-boot  )
 [[mybatis官网]](https://github.com/mybatis/spring-boot-starter)
-[[logback官网]](https://logback.qos.ch/ "logback官网")
-[[翟永超文章]](http://git.oschina.net/zhou666/spring-cloud-7simple)
-[[周立文章]](http://git.oschina.net/it-much)
-[[林祥纤文章]](http://my.csdn.net/linxingliang)
+[[logback官网]](https://logback.qos.ch/ "logback官网")      
+Spring Boot实战 ,丁雪丰 (译者)  书籍    
+JavaEE开发的颠覆者 Spring Boot实战  书籍 
+
 
 
 ## 更多问题
 1、Mixing thymeleaf and jsp files in Spring Boot？
 [[stackoverflow]](https://stackoverflow.com/questions/31985798/mixing-thymeleaf-and-jsp-files-in-spring-boot/43818962#43818962 "stackoverflow")         
 
-2、加QQ群：576684735（刚创建的群）
+2、QQ群   
+    576684735（互联网架构技术-新）    
+    557254530（java互联网技术交流）  
+    438255459（java交流群）
 
 
 
