@@ -31,20 +31,4 @@ public class HelloController {
 
 
 
-	// json案例
-	// http://localhost:8080/czy/json
-	@RequestMapping(value = {"/json"}, method = RequestMethod.GET)
-	//@ResponseBody
-	public User getJson() {
-		User user = new User();
-		user.setId(2017);
-		user.setUsername("陈郑游");
-		user.setSex("男");
-		user.setBirthday("1994-07");
-		user.setAddress("三亚市");
-		return user;
-	}
-
-
-
 }

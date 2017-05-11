@@ -1,8 +1,11 @@
 package org.czy.com.pojo;
 
+import com.alibaba.fastjson.annotation.JSONField;
 import org.springframework.context.annotation.ComponentScan;
 
+
 import java.io.Serializable;
+import java.util.Date;
 
 /**
  * @auther 陈郑游
@@ -21,7 +24,10 @@ public class User implements Serializable {
 
     public int id;
     public String username;
-    public String birthday;
+
+    // 是fastJson的注解
+    @JSONField(format = "yyyy-MM-dd HH:mm")
+    public Date birthday;
     public String sex;
     public String address;
 
@@ -31,7 +37,7 @@ public class User implements Serializable {
     }
 
 
-    public User(int id, String username, String birthday, String sex, String address) {
+    public User(int id, String username, Date birthday, String sex, String address) {
         this.id = id;
         this.username = username;
         this.birthday = birthday;
@@ -66,11 +72,11 @@ public class User implements Serializable {
         this.username = username;
     }
 
-    public String getBirthday() {
+    public Date getBirthday() {
         return birthday;
     }
 
-    public void setBirthday(String birthday) {
+    public void setBirthday(Date birthday) {
         this.birthday = birthday;
     }
 

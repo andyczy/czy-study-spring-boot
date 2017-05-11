@@ -8,22 +8,24 @@
 ## 更新目录
 
 
-##### czy-study-spring-boot-simple 模块
-    1、spring-boot的hello入门案例     
-    2、freemarker模板的使用   
-    3、thymeleaf模板的使用    
-    4、jsp模板的使用  （坑：必须注意用插件运行 mvn spring-boot:run）
-    5、异常处理
-    6、random 随机数的使用
-    7、logback 日志的使用
+##### czy-study-spring-boot-simple 模块[[simple模块代码]](https://github.com/AndyCZY/czy-study-spring-boot/tree/master/czy-study-spring-boot-simple)
+    1、web开发 spring-boot的hello入门案例     
+    2、web开发 freemarker模板的使用   
+    3、web开发 thymeleaf模板的使用    
+    4、web开发 jsp模板的使用  （坑：必须注意用插件运行 mvn spring-boot:run）
+    5、Exception  异常处理
+    6、random     随机数的使用
+    7、logback    日志的使用
+    8、fastJson   处理
+    9、Jackson    处理
 
 
-#### czy-study-spring-boot-mybatis 模块
+#### czy-study-spring-boot-mybatis 模块[[mybatis模块代码]](https://github.com/AndyCZY/czy-study-spring-boot/tree/master/czy-study-spring-boot-mybatis)
     1、注解的方式
     2、xml的方式
 
 
-#### czy-study-spring-boot-jdbc-template 模块
+#### czy-study-spring-boot-jdbc-template 模块[[jdbc-template模块代码]](https://github.com/AndyCZY/czy-study-spring-boot/tree/master/czy-study-spring-boot-jdbc-template)
     1、jdbc-template 简单案例
 
 

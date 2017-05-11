@@ -8,6 +8,7 @@ import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RequestMethod;
 
 import java.util.ArrayList;
+import java.util.Date;
 import java.util.List;
 
 /**
@@ -29,8 +30,8 @@ public class FreemarkerController {
     public String getFreemarker(Model model) {
 
         List<User> list = new ArrayList<User>();
-        User u1 = new User(11, "郑宇","1994-07","男","深圳");
-        User u2 = new User(12, "陈郑游","1994-09","男","深圳");
+        User u1 = new User(11, "郑宇",new Date(),"男","深圳");
+        User u2 = new User(12, "陈郑游",new Date(),"男","深圳");
         list.add(u2);
 
         model.addAttribute("userList", list.toString());

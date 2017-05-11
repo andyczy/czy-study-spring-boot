@@ -30,6 +30,14 @@
 
 
 
+		<!-- https://mvnrepository.com/artifact/com.alibaba/fastjson -->
+		<dependency>
+			<groupId>com.alibaba</groupId>
+			<artifactId>fastjson</artifactId>
+			<version>1.2.31</version>
+		</dependency>
+
+
 
 		<!--jsp 需要的依赖包 ：不太支持使用jsp作为模板 -->
 		<!--&lt;!&ndash;servlet依赖&ndash;&gt;-->
