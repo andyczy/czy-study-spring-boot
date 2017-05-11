@@ -11,14 +11,16 @@ spring boot 实战手册
     * [2.1 freemarker 模板的使用](springboot/二/2.1freemarker模板的使用.md)
     * [2.2 thymeleaf 模板的使用](springboot/二/2.2thymeleaf模板的使用.md)
     * [2.3 jsp 模板的使用](springboot/二/2.3jsp模板的使用.md)
-    * [2.4 导入XML配置](springboot/二/2.5Spring Boot导入XML配置.md)
-    * [2.5 Logback日志配置与使用](springboot/二/2.6Logback日志配置.md)
-    * [2.6 json处理]()
+    * [2.4 json处理]()
+    * [2.5 导入XML配置](springboot/二/2.5Spring Boot导入XML配置.md)
+    * [2.6 Logback日志配置与使用](springboot/二/2.6Logback日志配置.md)
+    
     
     
 * 第三章 SpringBoot 数据访问
-   * [3.1 注解的方式](springboot/三/2.1注解的方式.md)
-   * [3.2 xml的方式](springboot/三/2.2xml的方式.md)
+   * [3.1 mybatis 注解的方式](springboot/三/2.1注解的方式.md)
+   * [3.2 mybatis xml的方式](springboot/三/2.2xml的方式.md)
+   * [3.3 jdbc-template](springboot/三/3.3jdbc-template.md)
     
     
 * 第四章 SpringBoot 内嵌服务器
