@@ -30,13 +30,6 @@
 
 
 
-		<!-- https://mvnrepository.com/artifact/com.alibaba/fastjson -->
-		<dependency>
-			<groupId>com.alibaba</groupId>
-			<artifactId>fastjson</artifactId>
-			<version>1.2.31</version>
-		</dependency>
-
 
 		<!--用jsp必须注释掉thymeleaf依赖、而且一个项目只有一个Application.java才不报错，所以一般不推荐使用jsp了-->
 		<!--jsp 需要的依赖包 ：不太支持使用jsp作为模板-->
@@ -72,11 +65,11 @@
 		</dependency>
 
 
-		<!--&lt;!&ndash;thymeleaf&ndash;&gt;-->
-		<!--<dependency>-->
-			<!--<groupId>org.springframework.boot</groupId>-->
-			<!--<artifactId>spring-boot-starter-thymeleaf</artifactId>-->
-		<!--</dependency>-->
+		<!--thymeleaf-->
+		<dependency>
+			<groupId>org.springframework.boot</groupId>
+			<artifactId>spring-boot-starter-thymeleaf</artifactId>
+		</dependency>
 
 
 		<!--spring-boot-starter-web-->

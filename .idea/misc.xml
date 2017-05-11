@@ -101,6 +101,7 @@
         <option value="$PROJECT_DIR$/czy-study-spring-boot-mybatis/pom.xml" />
         <option value="$PROJECT_DIR$/czy-study-spring-boot-simple/pom.xml" />
         <option value="$PROJECT_DIR$/czy-study-spring-boot-jdbc-template/pom.xml" />
+        <option value="$PROJECT_DIR$/czy-study-spring-boot-json/pom.xml" />
       </list>
     </option>
   </component>

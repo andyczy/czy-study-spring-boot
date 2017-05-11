@@ -1,0 +1,8 @@
+# 多环境配置文件
+# application-dev.yml文件的-后面的字符
+# active属性激活你想要的文件
+spring:
+  profiles:
+    active: dev
+
+

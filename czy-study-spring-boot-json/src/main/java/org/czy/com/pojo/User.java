@@ -1,7 +1,7 @@
 package org.czy.com.pojo;
 
+import com.alibaba.fastjson.annotation.JSONField;
 import org.springframework.context.annotation.ComponentScan;
-
 
 import java.io.Serializable;
 import java.util.Date;
@@ -23,6 +23,9 @@ public class User implements Serializable {
 
     public int id;                  // User ID
     public String username;         // User name
+
+    // 是fastJson的注解
+    @JSONField(format = "yyyy-MM-dd HH:mm")
     public Date birthday;            // User birthday
     public String sex;               // User sex
     public String address;           // User address
