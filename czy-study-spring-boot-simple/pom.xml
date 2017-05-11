@@ -38,9 +38,9 @@
 		</dependency>
 
 
-
-		<!--jsp 需要的依赖包 ：不太支持使用jsp作为模板 -->
-		<!--&lt;!&ndash;servlet依赖&ndash;&gt;-->
+		<!--用jsp必须注释掉thymeleaf依赖、而且一个项目只有一个Application.java才不报错，所以一般不推荐使用jsp了-->
+		<!--jsp 需要的依赖包 ：不太支持使用jsp作为模板-->
+		<!--servlet依赖-->
 		<!--<dependency>-->
 			<!--<groupId>javax.servlet</groupId>-->
 			<!--<artifactId>javax.servlet-api</artifactId>-->
@@ -71,10 +71,12 @@
 			<artifactId>spring-boot-starter-freemarker</artifactId>
 		</dependency>
 
-		<dependency>
-			<groupId>org.springframework.boot</groupId>
-			<artifactId>spring-boot-starter-thymeleaf</artifactId>
-		</dependency>
+
+		<!--&lt;!&ndash;thymeleaf&ndash;&gt;-->
+		<!--<dependency>-->
+			<!--<groupId>org.springframework.boot</groupId>-->
+			<!--<artifactId>spring-boot-starter-thymeleaf</artifactId>-->
+		<!--</dependency>-->
 
 
 		<!--spring-boot-starter-web-->

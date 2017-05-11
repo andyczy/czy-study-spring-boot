@@ -24,6 +24,7 @@ public class JspController {
 
 
 	// http://localhost:8080/czy/
+	// 解决乱码
 	@RequestMapping(value = "/",
 			method = RequestMethod.GET,
 			produces = MediaType.TEXT_PLAIN_VALUE+";charset=UTF-8")

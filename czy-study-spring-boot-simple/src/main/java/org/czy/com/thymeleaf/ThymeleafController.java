@@ -18,13 +18,7 @@ public class ThymeleafController {
 	// http://localhost:8080/czy/thymeleaf
 	@RequestMapping("/thymeleaf")
 	public String getThymeleaf(Map<String,Object> map){
-
 		map.put("thymeleaf","spring-boot--使用thymeleaf模板 ！");
-
 		return "index" ;
-
 	}
-
-
-
 }

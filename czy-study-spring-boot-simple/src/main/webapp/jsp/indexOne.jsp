@@ -12,6 +12,9 @@
 
 spring boot jsp 配置   文件配置路径 !
 
+用jsp必须注释掉thymeleaf依赖、而且一个项目只有一个Application.java才不报错，所以一般不推荐使用jsp了
+
+
 
 </body>
 </html>
