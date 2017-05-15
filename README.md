@@ -52,9 +52,7 @@ JavaEE开发的颠覆者 Spring Boot实战  书籍
 [[stackoverflow]](https://stackoverflow.com/questions/31985798/mixing-thymeleaf-and-jsp-files-in-spring-boot/43818962#43818962 "stackoverflow")         
 
 2、QQ群   
-    576684735（互联网架构技术-新）    
-    557254530（java互联网技术交流）  
-    438255459（java交流群）
+
 
 
 
