@@ -105,6 +105,8 @@
         <option value="$PROJECT_DIR$/czy-study-spring-boot-simple/pom.xml" />
         <option value="$PROJECT_DIR$/czy-study-spring-boot-jdbc-template/pom.xml" />
         <option value="$PROJECT_DIR$/czy-study-spring-boot-json/pom.xml" />
+        <option value="$PROJECT_DIR$/czy-study-spring-boot-swagger2/pom.xml" />
+        <option value="$PROJECT_DIR$/czy-study-spring-boot-java-mail-sender/pom.xml" />
       </list>
     </option>
   </component>
