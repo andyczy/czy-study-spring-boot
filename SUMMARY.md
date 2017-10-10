@@ -1,4 +1,4 @@
-spring boot 实战手册
+spring boot 基础教程
 * 第一章 SpringBoot 快速入门
     * [1.1 spring boot简介](springboot/一/1.1spring boot简介.md)
     * [1.2 再遇HelloWord](springboot/一/1.2再遇HelloWord.md)
