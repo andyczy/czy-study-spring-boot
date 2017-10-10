@@ -2,12 +2,9 @@
 ##### [[博客地址：http://blog.csdn.net/javawebrookie]](http://blog.csdn.net/javawebrookie "陈郑游")         
 ##### Author: 陈郑游
 ##### motto：Take the dream life!
-#####  [[我的 GitBooK 开源书籍更新中]](https://www.gitbook.com/@chenzhengyou "GitBooK 开源书籍更新中")
 
 
 ## 更新目录
-
-
 #### [1、czy-study-spring-boot-simple 模块](https://github.com/AndyCZY/czy-study-spring-boot/tree/master/czy-study-spring-boot-simple)
     1、web开发 spring-boot的hello入门案例     
     2、web开发 freemarker模板的使用   
