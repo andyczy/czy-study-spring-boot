@@ -20,6 +20,8 @@ public class TestM {
 
     @Autowired
     private JavaMailSender mailSender;
+
+
     @Test
     public void sendSimpleMail() throws Exception {
         SimpleMailMessage message = new SimpleMailMessage();
