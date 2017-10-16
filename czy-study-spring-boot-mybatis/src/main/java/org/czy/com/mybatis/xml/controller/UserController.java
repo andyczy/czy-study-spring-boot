@@ -8,6 +8,8 @@ import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.ResponseBody;
 import org.springframework.web.bind.annotation.RestController;
 
+import java.util.Map;
+
 
 /**
  * @auther 陈郑游
@@ -25,12 +27,12 @@ public class UserController {
     public UserService userService;
 
 
-
     // http://localhost:8080/czy/findUser?id=1
     @RequestMapping(value = "/findUser")
-    @ResponseBody
     public String findUserById(Integer id) {
         User user = userService.findUserById(id);
         return user.toString();
     }
+
+
 }

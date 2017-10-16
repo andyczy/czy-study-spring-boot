@@ -28,6 +28,12 @@
 
 	<dependencies>
 
+		<!--thymeleaf-->
+		<dependency>
+			<groupId>org.springframework.boot</groupId>
+			<artifactId>spring-boot-starter-thymeleaf</artifactId>
+		</dependency>
+
 
 		<!--连接数据库需要引入jdbc支持-->
 		<dependency>
